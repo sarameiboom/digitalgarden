@@ -6,6 +6,14 @@
   font-style: normal;
 }
 
+
+{
+  font-family: "Valley Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 body {
   font-family: "Comic Relief", system-ui;
   background-color: Canvas;
