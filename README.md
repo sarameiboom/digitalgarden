@@ -4,6 +4,29 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 11 sept - Feedback, Deep Dive kleuren & gradients + Check-out
+Naar mijn vooruitgang gekeken samen met Vasilis. Deze ochtend gezien dat mijn learning log verdwenen was, dit maakte het moeilijk om samen naar mijn vooruitgang te kijken.
+Vervolgens de deep dive kleuren & gradients gedaan met oefeningen die in DLO staan. Deze deep dive ging goed door het kunnen kijken naar de presentatie die in DLO staat met uitleg en namen van de codes met de verschillende gradients die je kan maken in code.
+
+<img width="1440" height="845" alt="Deep Dive - kleuren en gradients" src="https://github.com/user-attachments/assets/732c68b5-e7a5-4578-909f-3ba09af90a8f" />
+
+**Check-out**
+1. Welke feedback heb je gehad?
+- Minder uitstellen de codeer opdrachten, Lees de tekst goed bij de deepdives.
+- De professionele competenties zijn nog niet terug te zien. Sommige dingen gaan nog niet helemaal lekker. Reserveer er tijd voor.
+- Probeer bij de deep dives aanwezig te zijn.
+- Probeer feedback te vragen om de lat voor jezelf wat hoger te leggen.
+
+- Ga even voor de Deep Dives zitten. Onthoud dat je het niet hoef te kunnen, maar het is om te leren.
+- De professionele competenties zie ik niet terug, omdat je learning log leeg is(perongeluk verwijderd).
+- Als de basis goed staat en je kan doorwerken geeft het rust. Dan kun je verder met wat je echt moeilijk vind. Ga er tijd voor reserveren. Zoek klasgenoten op als het niet lukt.
+- Probeer om bij de Deep dives aanwezig te zijn. Niet voor jezelf de lat te laat gaan leggen. Docenten geven aan als het te hoog licht.
+
+Met de gekregen feedback heb ik gemerkt dat ik mij wat meer moet verdiepen in de code sinds ik dat niet erg leuk vind om te doen en dit voor mij uit schuif. Hiervoor ga ik wat meer tijd vrij maken om hieraan te werken en de oefeningen beter te kunnen maken.
+
+
+---
+
 ### 10 sept - Deep Dive light & dark theme
 Via DLO de deep dive light & dark theme gevolgd met oefeningen. Hierbij heb ik in CodePen oefeningen gedaan met het schrijven van code hoe je de light & dark theme kan aanpassen naar eigen kleuren. Dit vond ik erg lastig om te volgen sinds het mij eerst niet wilde lukken en niet werkte. Na het doen van vergelijkingen in de code van de uitwerking heb ik kunnen achterhalen wat de codes horen te zijn en hoe deze vervolgens werken met wat testen.
 
