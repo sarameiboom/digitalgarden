@@ -27,13 +27,18 @@ Met de gekregen feedback heb ik gemerkt dat ik mij wat meer moet verdiepen in de
 
 ---
 
-### 10 sept - Deep Dive light & dark theme
+### 10 sept - Deep Dive light & dark theme + Scherm schetsen
 Via DLO de deep dive light & dark theme gevolgd met oefeningen. Hierbij heb ik in CodePen oefeningen gedaan met het schrijven van code hoe je de light & dark theme kan aanpassen naar eigen kleuren. Dit vond ik erg lastig om te volgen sinds het mij eerst niet wilde lukken en niet werkte. Na het doen van vergelijkingen in de code van de uitwerking heb ik kunnen achterhalen wat de codes horen te zijn en hoe deze vervolgens werken met wat testen.
 
 <img width="759" height="843" alt="Deep Dive - light   dark theme 01" src="https://github.com/user-attachments/assets/012887d5-8c33-4707-930f-58607b12fb83" />
 <img width="760" height="843" alt="Deep Dive - light   dark theme 02" src="https://github.com/user-attachments/assets/b9feb7ab-dbbb-4260-8a73-5505fba5ed5a" />
 <img width="758" height="840" alt="Deep Dive - light   dark theme 03" src="https://github.com/user-attachments/assets/c2f431bf-6cb4-4c3f-8251-ede2e924801a" />
 <img width="757" height="841" alt="Deep Dive - light   dark theme 04" src="https://github.com/user-attachments/assets/3157cdfc-8eac-4f7b-bf95-447b764c8c03" />
+
+Op papier heb ik 5 verschillende schermen geschetst met manieren hoe mijn website er visueel uit zou komen te kunnen zien met verschillende ideeën voor interacties.
+
+<img width="5712" height="4284" alt="Scherm_schetsen_01" src="https://github.com/user-attachments/assets/0485aacc-bc20-493e-85f1-3f86cd27ae3f" />
+<img width="4032" height="3024" alt="Scherm_schetsen_02" src="https://github.com/user-attachments/assets/b2f31c5a-807c-45b9-be5d-48761f646380" />
 
 ---
 
