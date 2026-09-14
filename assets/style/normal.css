@@ -22,16 +22,15 @@ main {
 article {
   grid-column: span 3;
   background-color: lightsteelblue;
-  margin: 1em;
-  width: 30em;
+  width: 22em;
 }
 
 h3 {
   margin: 1em;
-  width: 30em;
+  width: 22em;
 }
 
 p {
   margin: 1em;
-  width: 30em;
+  width: 22em;
 }
