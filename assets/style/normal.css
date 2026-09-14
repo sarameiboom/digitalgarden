@@ -18,6 +18,7 @@ html {
 
 html:has([value="light"]:checked) {
   color-scheme: light;
+  background-color: lightblue;
 }
 
 html:has([value="dark"]:checked) {
