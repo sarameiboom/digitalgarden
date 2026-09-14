@@ -8,7 +8,7 @@
 
 body {
   font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
+  background-color: var(--background);
   color: CanvasText;
 }
 
@@ -18,7 +18,7 @@ html {
 
 html:has([value="light"]:checked) {
   color-scheme: light;
-  background-color: lightblue;
+  --background: lightblue;
 }
 
 html:has([value="dark"]:checked) {
