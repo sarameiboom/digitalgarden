@@ -9,6 +9,7 @@
 body {
   font-family: "Comic Relief", system-ui;
   background-color: var(--background);
+  margin: 3em 6em;
 }
 
 html {
