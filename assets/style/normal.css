@@ -28,12 +28,11 @@ html:has([value="dark"]:checked) {
 main {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  grid-gap: 1fr;
+  grid-gap: 1em;
   grid-auto-flow: dense;
 }
 
 article {
   grid-column: span 3;
-  width: 30em;
   background-color: lightsteelblue;
 }
