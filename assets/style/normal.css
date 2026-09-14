@@ -12,19 +12,6 @@ body {
   margin: 3em 6em;
 }
 
-html {
-  color-scheme: light dark;
-}
-
-html:has([value="light"]:checked) {
-  color-scheme: light;
-  background: lightblue;
-}
-
-html:has([value="dark"]:checked) {
-  color-scheme: dark;
-}
-
 main {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
