@@ -28,11 +28,11 @@ main {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-gap: 0.1em;
-  width: 20em;
   grid-auto-flow: dense;
 }
 
 article {
   grid-column: span 3;
+  width: 20em;
   background-color: lightsteelblue;
 }
