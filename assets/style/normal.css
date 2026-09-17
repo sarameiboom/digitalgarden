@@ -39,8 +39,8 @@ li a:hover {
 }
 
 .otters-achtergrond-img {
-  width: 100vw;
-  height: 50vh;
+  width: 100%;
+  height: auto;
   object-fit: cover;
   display: block;
 }
