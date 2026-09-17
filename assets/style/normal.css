@@ -34,14 +34,13 @@ li a:hover {
 }
 
 .achtergrond-vorm {
-  position: absolute;
+  position: flex;
   top: -10%;
   left: -10%;
-  width: 60vw;
+  width: fit-content;
   height: 60vw;
-  background: linear-gradient(45deg, #ff7b00, #ffae00);
+  background: linear-gradient(45deg, #c6dbef, #deebf7);
   border-radius: 43% 57% 41% 59% / 57% 45% 55% 43%;
-  filter: blur(20px);
   z-index: -1;
 }
 
