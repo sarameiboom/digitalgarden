@@ -66,3 +66,7 @@ h3 {
 p {
   margin: 1em;
 }
+
+.Rivierotter-beeld {
+  display: flex;
+}
