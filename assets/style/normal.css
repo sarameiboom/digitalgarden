@@ -73,10 +73,6 @@ p {
 
 .Rivierotter-beeld {
   margin: 3em;
-  width: 300px;
-  height: auto;
-  display: block;
-  border-radius: 6px;
 }
 
 .intro-beeld {
@@ -86,6 +82,13 @@ p {
   gap: 24px;
   max-width: 900px;
   margin: 20px auto;
+}
+
+.intro-beeld {
+  width: 300px;
+  height: auto;
+  display: block;
+  border-radius: 6px;
 }
 
 .intro-tekst {
