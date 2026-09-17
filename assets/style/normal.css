@@ -73,10 +73,25 @@ p {
 
 .Rivierotter-beeld {
   margin: 3em;
+  width: 300px;
+  height: auto;
+  display: block;
+  border-radius: 6px;
 }
 
-.Rivierotter-img {
-  width: 50px;
-  height: auto;
+.intro-beeld {
   display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 24px;
+  max-width: 900px;
+  margin: 20px auto;
+}
+
+.intro-tekst {
+  flex: 1;
+}
+
+.intro-tekst h2 {
+  margin-top: 0;
 }
