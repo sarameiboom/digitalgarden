@@ -37,7 +37,7 @@ li a:hover {
   position: flex;
   top: -10%;
   left: -10%;
-  width: fit-content;
+  width: 100%;
   height: 60vw;
   background: linear-gradient(45deg, #c6dbef, #deebf7);
   border-radius: 43% 57% 41% 59% / 57% 45% 55% 43%;
