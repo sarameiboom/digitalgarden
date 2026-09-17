@@ -74,3 +74,10 @@ p {
 .Rivierotter-beeld {
   margin: 3em;
 }
+
+.Rivierotter-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
