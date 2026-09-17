@@ -4,6 +4,42 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+---
+
+### 17 sept - Digitaal tuintje website aanpassingen
+Deze dag heb ik besteed aan het werken van mijn website door aanpassingen te maken in vooral de css en lay-out van de html. Hierbij heb ik een font uitgekozen via Google Fonts en deze in de html en css toegevoegd. Hierbij een afbeelding op de Home pagina toegevoegd, header aangepast, articles gelinkt aan nieuwe pagina's en een nieuwe pagina aangemaakt als voorbeeld van de articles. Via de articles wil ik verschillende soorten otters introduceren waar de bezoekers van de site gemakkelijk naartoe kunnen navigeren en kunnen lezen.
+
+<img width="1440" height="171" alt="Scherm­afbeelding 2026-09-17 om 15 45 40" src="https://github.com/user-attachments/assets/65e1f28c-0d8b-4709-9424-8d508bb7e65f" />
+
+
+---
+
+### 14 sept - Wat is het internet? & Digitaal tuintje website + Check-out
+Tijdens de les samen in een groepje/team over de hoofdvraag "Zijn overheden verantwoordelijk voor de betrouwbaarheid van het internet?" deelvragen bedacht. Voor gekregen deelvragen van een ander team samen onderzoeksmethodes besproken en uitgekozen voor hun bedachte deelvragen.
+
+<img width="4019" height="3014" alt="IMG_9441" src="https://github.com/user-attachments/assets/851c11ac-571e-43e0-8115-1f2baa677e6e" />
+<img width="4638" height="3478" alt="IMG_9442" src="https://github.com/user-attachments/assets/83f1676d-28a5-47bd-890c-7230388b4881" />
+
+Het vervolg van de les gewerkt aan mijn website. Deze keer heb ik aanpassingen gemaakt aan de Home pagina waar ik grids heb gebruikt om articles te kunnen tonen. Deze articles zo gemaakt dat deze zich zelf aanpassing aan de breedte van het scherm met meerdere articles naast elkaar.
+Hiernaast de navigatie van de site aangepast naar een menu balk bovenin. Deze heeft nog verdere css nodig netzoals de articles.
+
+<img width="1440" height="762" alt="Scherm­afbeelding 2026-09-14 om 14 35 50" src="https://github.com/user-attachments/assets/36e20968-edbd-41a0-b52b-cdb82ffb1398" />
+<img width="1440" height="758" alt="Scherm­afbeelding 2026-09-16 om 11 35 57" src="https://github.com/user-attachments/assets/c98bae5b-7dff-4c87-8f93-c2db83737b4e" />
+<img width="1440" height="195" alt="Scherm­afbeelding 2026-09-16 om 12 15 54" src="https://github.com/user-attachments/assets/8f76846c-817f-4f2b-be46-3d8cea9f8580" />
+<img width="1440" height="158" alt="Scherm­afbeelding 2026-09-16 om 13 22 07" src="https://github.com/user-attachments/assets/f6c162f3-e2ef-4c0b-88e3-ca52d61df7ec" />
+
+**Check-out**
+1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+  Wanneer er alleen html onderdelen in de code staan. Om dit te fixen hieraan css code toe te voegen zoals kleuren, grids, margins, fonts etc.
+
+2. Vertel welke volgende stap je neemt om je website responsive te maken.
+  Het toevoegen van buttons, meerder pagina’s, interacties voor de gebruiker van de website.
+
+3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+  De bouw van mijn eigen Garden is nog erg rustig maar wel speels. 
+
+---
+
 ### 11 sept - Feedback, Deep Dive kleuren & gradients + Check-out
 Naar mijn vooruitgang gekeken samen met Vasilis. Deze ochtend gezien dat mijn learning log verdwenen was, dit maakte het moeilijk om samen naar mijn vooruitgang te kijken.
 Vervolgens de deep dive kleuren & gradients gedaan met oefeningen die in DLO staan. Deze deep dive ging goed door het kunnen kijken naar de presentatie die in DLO staat met uitleg en namen van de codes met de verschillende gradients die je kan maken in code.
