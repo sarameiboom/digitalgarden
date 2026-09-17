@@ -59,6 +59,10 @@ article {
   background-color: lightsteelblue;
 }
 
+article a {
+  text-decoration: none;
+}
+
 h3 {
   margin: 1em;
 }
