@@ -73,6 +73,9 @@ p {
 
 .Rivierotter-beeld {
   margin: 3em;
+}
+
+.Rivierotter-img {
   width: 500px;
   height: auto;
   display: flex;
