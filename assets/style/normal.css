@@ -72,7 +72,7 @@ p {
 }
 
 .Rivierotter-beeld {
-  margin: 3em;
+  margin: 0em;
 }
 
 .intro-beeld {
@@ -85,7 +85,7 @@ p {
 }
 
 .intro-beeld img {
-  width: 300px;
+  width: 650px;
   height: auto;
   display: block;
   border-radius: 6px;
