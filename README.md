@@ -6,6 +6,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ---
 
+### 17 sept - Digitaal tuintje website aanpassingen
+Deze dag heb ik besteed aan het werken van mijn website door aanpassingen te maken in vooral de css en lay-out van de html. Hierbij heb ik een font uitgekozen via Google Fonts en deze in de html en css toegevoegd. Hierbij een afbeelding op de Home pagina toegevoegd, header aangepast, articles gelinkt aan nieuwe pagina's en een nieuwe pagina aangemaakt als voorbeeld van de articles. Via de articles wil ik verschillende soorten otters introduceren waar de bezoekers van de site gemakkelijk naartoe kunnen navigeren en kunnen lezen.
+
+<img width="1440" height="171" alt="Scherm­afbeelding 2026-09-17 om 15 45 40" src="https://github.com/user-attachments/assets/65e1f28c-0d8b-4709-9424-8d508bb7e65f" />
+
+
+---
+
 ### 14 sept - Wat is het internet? & Digitaal tuintje website + Check-out
 Tijdens de les samen in een groepje/team over de hoofdvraag "Zijn overheden verantwoordelijk voor de betrouwbaarheid van het internet?" deelvragen bedacht. Voor gekregen deelvragen van een ander team samen onderzoeksmethodes besproken en uitgekozen voor hun bedachte deelvragen.
 
