@@ -72,18 +72,21 @@ p {
 }
 
 .Rivierotter-beeld {
+  flex: 1;
 }
 
 .intro-beeld {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
-  gap: 24px;
-  max-width: 600px;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  max-width: 1000px;
+  margin: 4em auto;
 }
 
 .intro-beeld img {
-  width: 600px;
+  width: 100%;
   height: auto;
   display: block;
   border-radius: 6px;
