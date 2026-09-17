@@ -72,7 +72,6 @@ p {
 }
 
 .Rivierotter-beeld {
-  margin-left: -2em;
 }
 
 .intro-beeld {
@@ -80,12 +79,12 @@ p {
   flex-direction: row;
   align-items: flex-start;
   gap: 24px;
-  max-width: 900px;
+  max-width: 600px;
   margin: 20px auto;
 }
 
 .intro-beeld img {
-  width: 650px;
+  width: 600px;
   height: auto;
   display: block;
   border-radius: 6px;
