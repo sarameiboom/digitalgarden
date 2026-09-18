@@ -53,6 +53,7 @@ main {
 
 article {
   background-color: lightsteelblue;
+  border-radius: 20px;
 }
 
 article a {
