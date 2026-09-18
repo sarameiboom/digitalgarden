@@ -83,10 +83,11 @@ p {
 }
 
 .intro-beeld img {
-  width: 200%;
+  width: 180%;
   height: auto;
   display: block;
   border-radius: 6px;
+  margin-left: -120px;
 }
 
 .intro-tekst {
