@@ -13,8 +13,6 @@ Deze dag heb ik besteed aan het werken van mijn website door aanpassingen te mak
 <img width="1440" height="755" alt="Scherm­afbeelding 2026-09-17 om 15 46 25" src="https://github.com/user-attachments/assets/e8885d3b-699b-4288-8461-35f0044507be" />
 <img width="1440" height="755" alt="Scherm­afbeelding 2026-09-17 om 15 46 36" src="https://github.com/user-attachments/assets/da1fd8d3-6675-4d01-b565-eabc309e8305" />
 
-
-
 ---
 
 ### 14 sept - Wat is het internet? & Digitaal tuintje website + Check-out
@@ -99,6 +97,12 @@ Met mijn onderwerp wil ik vertellen over leuke weetjes met daarbij behorende afb
 2. Ik wil mijn Digital Garden laten gaan over leuke weetjes en informatie over otters.  en wil dat laten zien door verschillende afbeeldingen van bezigheden van otters en informatie aan content te tonen.  Ik begin met een stukje eigen content over mijn interesse naar otters.  Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door andere interesses van mij te delen en hier mij meer in over te gaan verdiepen.
 
 In Figma heb ik oefeningen gedaan voor de visual research. Hierbij heb ik stappen gevolgd om beeld te vertalen naar gevoel en welke uitstraling mijn website met mijn onderwerp gaat geven. Daarbij een crazy 8 gedaan.
+
+Door de Visual Research heb ik een beter beeld gekregen met hoe ik mijn website visueel wil gaan maken en kan ik makkelijker verder met het bouwen van mijn website.
+
+<img width="983" height="482" alt="Scherm­afbeelding 2026-09-18 om 10 51 25" src="https://github.com/user-attachments/assets/3ff82694-c869-4755-a85d-c3e028e5417f" />
+<img width="970" height="227" alt="Scherm­afbeelding 2026-09-18 om 10 51 35" src="https://github.com/user-attachments/assets/fc1eecf1-a1a6-410a-aeab-df2690a612ef" />
+<img width="759" height="522" alt="Scherm­afbeelding 2026-09-18 om 10 51 57" src="https://github.com/user-attachments/assets/4f94e6fd-d241-4acd-a7c3-c82e6633258a" />
 
 **Check-out**
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
