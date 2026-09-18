@@ -35,16 +35,12 @@ h1 {
   margin: 2em 2em;
 }
 
-.achtergrond-otters {
-  width: 100%;
-  overflow: hidden;
-}
-
 .otters-achtergrond-img {
   width: 100%;
   height: auto;
   object-fit: cover;
   display: block;
+  overflow: hidden;
 }
 
 main {
