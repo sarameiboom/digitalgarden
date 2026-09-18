@@ -10,6 +10,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 Deze dag heb ik besteed aan het werken van mijn website door aanpassingen te maken in vooral de css en lay-out van de html. Hierbij heb ik een font uitgekozen via Google Fonts en deze in de html en css toegevoegd. Hierbij een afbeelding op de Home pagina toegevoegd, header aangepast, articles gelinkt aan nieuwe pagina's en een nieuwe pagina aangemaakt als voorbeeld van de articles. Via de articles wil ik verschillende soorten otters introduceren waar de bezoekers van de site gemakkelijk naartoe kunnen navigeren en kunnen lezen.
 
 <img width="1440" height="171" alt="Scherm­afbeelding 2026-09-17 om 15 45 40" src="https://github.com/user-attachments/assets/65e1f28c-0d8b-4709-9424-8d508bb7e65f" />
+<img width="1440" height="755" alt="Scherm­afbeelding 2026-09-17 om 15 46 25" src="https://github.com/user-attachments/assets/e8885d3b-699b-4288-8461-35f0044507be" />
+<img width="1440" height="755" alt="Scherm­afbeelding 2026-09-17 om 15 46 36" src="https://github.com/user-attachments/assets/da1fd8d3-6675-4d01-b565-eabc309e8305" />
+
 
 
 ---
