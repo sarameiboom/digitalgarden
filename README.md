@@ -4,9 +4,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 17 sept - Digitaal tuintje website aanpassingen
+Deze dag heb ik verder gewerkt aan het bouwen van mijn website. Hiervoor heb ik mij het meeste gericht op de css ervan en het toevoegen van content. Een nieuwe pagina aangemaakt voor articles over verschillende soorten otters + een nieuwe pagina aangemaakt voor leuke weetjes die ook te vinden is in het navigatiemenu. Deze pagina's gebouwd min html met content zoals beeld en tekst, vervolgens css aan toegevoegd en gewerkt aan de lay-out.
+
+<img width="1440" height="759" alt="Scherm­afbeelding 2026-09-18 om 11 01 58" src="https://github.com/user-attachments/assets/cbe1b2fe-1e48-4ee6-84ad-9fe6c9abedf4" />
+<img width="769" height="758" alt="Scherm­afbeelding 2026-09-18 om 11 02 17" src="https://github.com/user-attachments/assets/c675c792-2e91-480e-b00a-17ba2164cf3c" />
+
+<img width="1440" height="756" alt="Scherm­afbeelding 2026-09-18 om 11 02 28" src="https://github.com/user-attachments/assets/2f221b0b-3737-4462-b534-0d188ade93f5" />
+<img width="866" height="757" alt="Scherm­afbeelding 2026-09-18 om 11 02 42" src="https://github.com/user-attachments/assets/b49f8409-bcb6-439e-8da5-a0bebafbb180" />
+
 ---
 
-### 17 sept - Digitaal tuintje website aanpassingen
+### 16 sept - Digitaal tuintje website aanpassingen
 Deze dag heb ik besteed aan het werken van mijn website door aanpassingen te maken in vooral de css en lay-out van de html. Hierbij heb ik een font uitgekozen via Google Fonts en deze in de html en css toegevoegd. Hierbij een afbeelding op de Home pagina toegevoegd, header aangepast, articles gelinkt aan nieuwe pagina's en een nieuwe pagina aangemaakt als voorbeeld van de articles. Via de articles wil ik verschillende soorten otters introduceren waar de bezoekers van de site gemakkelijk naartoe kunnen navigeren en kunnen lezen.
 
 <img width="1440" height="171" alt="Scherm­afbeelding 2026-09-17 om 15 45 40" src="https://github.com/user-attachments/assets/65e1f28c-0d8b-4709-9424-8d508bb7e65f" />
