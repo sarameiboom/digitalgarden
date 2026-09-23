@@ -16,6 +16,19 @@ We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cooki
 
 Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."
 
+**Check-Out**
+1. Wat is een wireflow en wat heb je er aan?
+Een wireflow zijn schetsen van losse webpagina's die met elkaar verbonden zijn en die laten zien hoe de gebruiker door de website heen navigeert.
+
+2. Wat zijn dark UX patterns? Geef drie voorbeelden...
+Dark UX patterns zijn misleidende ontwerp trucs die gebruikers stiekem dingen laat doen die ze eigen niet zouden willen. Voorbeelden hiervan zijn:
+- verborgen kosten, bijvoorbeeld kosten die pas bij het afrekenen toegevoegd worden aan het bedrag.
+- valse urgentie, bijvoorbeeld een timer bij een product met korting waarvan de korting zou gaan verlopen maar eigenlijk helemaal niet gebeurd.
+- visuele misleiding, visuele elementen op de website die de aandacht van de gebruiker afleiden.
+
+3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+Bij het maken van bijvoorbeeld een cookie-banner of privacy-keuzehulp is het belangrijk om de gebruiker te respecteren met hun keuzes en voorkeuren. Om hiermee rekening te houden moet je denken aan het voorkomen van dark patterns, genoeg en alle informatie geven (transparantie), toegankelijkheid, context en timing.
+
 ---
 
 ### 21 sept - Cookies en Popup meldingen
