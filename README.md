@@ -4,6 +4,20 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 23 sept - Workshop Dark patterns & Wireframes/Wireflows
+Aan het begin van de ochtend een presentatie gehad van Hans de Zwart over privacy. Met deze informatie begrijp ik de privacy redenen beter voor gebruik van mijn eigen website en hoe ik hiermee zou kunnen omgaan. Vervolgens hebben wij in een groepje opdrachten gemaakt over dark paters van het web zoals bij een eigen gekozen website. We hebben van de website GinaTricot een wireframe/wireflow geschetst waarbij dark patterns te zien zijn. Hiernaast hebben we deze dark patterns besproken en aangegeven.
+
+1.
+<img width="3820" height="2806" alt="WhatsApp Image 2026-09-23 at 11 47 06" src="https://github.com/user-attachments/assets/dc1126d5-5ed2-4b1a-bd76-90b0d7ed2fec" />
+
+2.⁠ ⁠Bespreek met elkaar welke elementen 'dark' zijn en hoe er met data omgegaan wordt. Maak vervolgens een herontwerp voor dit pattern.
+
+We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
+
+Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."
+
+---
+
 ### 21 sept - Cookies en Popup meldingen
 Tijdens de les opdrachten gemaakt samen met een duo om verschillende cookies pop-up meldingen te bekijken en deze te onderzoeken. Hiervoor heb ik samen met Inger vragen beantwoord die daarover gaan en hoe ze met de cookies en meldingen omgaan. Hierdoor hebben wij een beter beeld gekregen over wat websites willen wat je doet, hoe ze deze meldingen laten zien en hoe je deze kan terug vinden.
 
