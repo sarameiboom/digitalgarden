@@ -4,6 +4,37 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 21 sept - Cookies en Popup meldingen
+Tijdens de les opdrachten gemaakt samen met een duo om verschillende cookies pop-up meldingen te bekijken en deze te onderzoeken. Hiervoor heb ik samen met Inger vragen beantwoord die daarover gaan en hoe ze met de cookies en meldingen omgaan. Hierdoor hebben wij een beter beeld gekregen over wat websites willen wat je doet, hoe ze deze meldingen laten zien en hoe je deze kan terug vinden.
+
+<img width="5712" height="4284" alt="IMG_9515" src="https://github.com/user-attachments/assets/a9a835f4-06aa-4ad9-914e-b82b14fad8e9" />
+
+**Check-Out**
+1. Wat zijn HTML landmark role elements?
+HTML landmark role elements zijn speciale structurele secties op een webpagina die aangeven waar belangrijke onderdelen zich bevinden.
+
+2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+Heading elementen zijn HTML-tags zoals <h1> die worden gebruikt om structuur en hiërarchie van de inhoud op een webpagina te bepalen. <h1> is dan bijvoorbeeld de belangrijkste kop.
+
+3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+Ik accepteer automatisch altijd cookies en ik ben niet bezig met bijvoorbeeld voorkeuren te selecteren of de privacy redenen door te lezen.
+
+---
+
+### 18 sept - Retrospect, Voortgangsgesprek + Feedback 
+Tijdens de les het Retrospectieve ingevuld met mijn voortgang en hoe ik de afgelopen weken zelf heb ervaren. Ik merk dat ik erg moest wennen aan het begin om weer in de workflow te komen en weer bezig te zijn met schoolwerk. Dit duurde wat langer om op gang te komen en heb ik daardoor de afgelopen dagen wat harder moeten werken aan de website en opdrachten. Tijdens mijn voortgangsgesprek is dit ook naar voren gekomen maar kreeg heb ik alsnog erg positieve feedback gekregen over de website.
+
+<img width="921" height="467" alt="Scherm­afbeelding 2026-09-23 om 11 46 37" src="https://github.com/user-attachments/assets/e7e5497c-967f-4bd5-8a01-a1905849bc1b" />
+
+De feedback die ik heb gekregen voor mijn website is:
++ Bronnen in code en Readme zetten
++ De titel aanpassen om deze meer karakter te geven, meer vormgeven
++ De clean look van de website meer betrekken bij losse vormen en het speelse
++ Light & dark themas meer aandacht geven, de kleuren aanpassen etc.
++ CSS Custom-properties toepassen
+
+---
+
 ### 17 sept - Digitaal tuintje website aanpassingen
 Deze dag heb ik verder gewerkt aan het bouwen van mijn website. Hiervoor heb ik mij het meeste gericht op de css ervan en het toevoegen van content. Een nieuwe pagina aangemaakt voor articles over verschillende soorten otters + een nieuwe pagina aangemaakt voor leuke weetjes die ook te vinden is in het navigatiemenu. Deze pagina's gebouwd min html met content zoals beeld en tekst, vervolgens css aan toegevoegd en gewerkt aan de lay-out.
 
