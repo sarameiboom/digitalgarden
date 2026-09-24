@@ -6,9 +6,25 @@
   font-style: normal;
 }
 
+html {
+  color-scheme: light dark;
+
+  --color-cyan: light-dark(darkcyan, cyan);
+  --color-magenta: light-dark(darkmagenta, magenta);
+  --color-yellow: light-dark(goldenrod, yellow);
+  --color-blue: light-dark(rgb(130, 184, 255), #7b75ea);
+  --color-dark: #07024d;
+  --color-light: #a6cfff;
+
+  --color-background: light-dark(var(--color-light), var(--color-dark));
+  --color-text: var(--color-dark), light-dark(var(--color-light));
+  --accent-color: rgb(16, 0, 110);
+  --border-width: 0.1em;
+}
+
 body {
   font-family: "Valley Sans", sans-serif;
-  background-color: lightblue;
+  background: var(--color-background);
 }
 
 ul {
@@ -27,7 +43,7 @@ li a {
 }
 
 li a:hover {
-  background-color: darkblue;
+  background-color: var(--color-blue);
   color: white;
 }
 
@@ -52,13 +68,13 @@ main {
 }
 
 article {
-  background-color: lightsteelblue;
+  background-color: var(--color-blue);
   border-radius: 20px;
 }
 
 article a {
   text-decoration: none;
-  color: darkblue;
+  color: rgb(0, 0, 120);
 }
 
 h3 {
