@@ -114,3 +114,25 @@ p {
 .intro-tekst h2 {
   margin-top: 0;
 }
+
+@media (max-width: 768px) {
+  .intro-beeld {
+    flex-direction: column;
+  }
+
+  .intro-beeld img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .intro-tekst {
+    flex: 1;
+    margin: 2em;
+  }
+
+  .intro-tekst h2 {
+    margin-top: 0;
+  }
+}
