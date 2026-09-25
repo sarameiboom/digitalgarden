@@ -4,6 +4,21 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 24 sept - Website aanpassingen HTML & CSS
+
+Deze dag heb ik aanpassingen gemaakt aan de HTML en CSS van de website. Dit zijn aanpassingen zoals het maken van een nieuwe pagina voor het steunen van otters, waar informatie te vinden zal zijn om de otters te kunnen steunen en helpen. Daarnaast de hoofdpagina de articles aangepast met stukjes tekst om deze te vullen inplaats van de opvul tekst die er stond. Ook een nieuwe pagina aangemaakt voor de Zeeotter zoals de opmaak van de Rivierotter zodat deze dezelfde lay-out hebben en gemakkelijk aangemaakt kunnen worden. Aan deze pagina's heb ik in de CSS ook aanpassingen gemaakt met gebruik van @media zodat wanneer de website op een kleiner scherm wordt bekeken (zoals telefoon), de afbeelding boven de tekst komt de staan.
+Ook heb ik verdere aanpassingen gemaakt na het gekregen feedback van afgelopen vrijdag.
+Verdere CSS aanpassingen zijn de titels van de pagina's (h1) die een andere, meer speelse font hebben gekregen.
+Hiernaast heb ik het light & dark thema aangepast met de kleuren. Hiervoor heb ik custom properties gebruikt die ik nog niet had aangemaakt.
+
+<img width="1440" height="761" alt="Scherm­afbeelding 2026-09-25 om 12 11 07" src="https://github.com/user-attachments/assets/bedead37-3008-4545-a939-5206ff19b09a" />
+<img width="1440" height="755" alt="Scherm­afbeelding 2026-09-25 om 12 11 18" src="https://github.com/user-attachments/assets/f017cd61-5f4f-4e00-90f2-e9c1ec0123e3" />
+<img width="1440" height="763" alt="Scherm­afbeelding 2026-09-25 om 12 11 29" src="https://github.com/user-attachments/assets/6d86b4fd-879f-46ea-9012-ef97dd1b2af8" />
+<img width="718" height="762" alt="Scherm­afbeelding 2026-09-25 om 12 11 41" src="https://github.com/user-attachments/assets/6ee33108-363b-4c4c-bbd8-647cc96a0e12" />
+<img width="571" height="760" alt="Scherm­afbeelding 2026-09-25 om 12 12 20" src="https://github.com/user-attachments/assets/cf7409e5-0e13-4688-bb37-7f604bd030e4" />
+
+---
+
 ### 23 sept - Workshop Dark patterns & Wireframes/Wireflows
 Aan het begin van de ochtend een presentatie gehad van Hans de Zwart over privacy. Met deze informatie begrijp ik de privacy redenen beter voor gebruik van mijn eigen website en hoe ik hiermee zou kunnen omgaan. Vervolgens hebben wij in een groepje opdrachten gemaakt over dark paters van het web zoals bij een eigen gekozen website. We hebben van de website GinaTricot een wireframe/wireflow geschetst waarbij dark patterns te zien zijn. Hiernaast hebben we deze dark patterns besproken en aangegeven.
 
