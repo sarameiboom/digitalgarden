@@ -48,7 +48,12 @@ li a:hover {
 }
 
 h1 {
-  margin: 2em 2em;
+  margin: 1em 1em;
+  font-family: "Caveat Brush", cursive;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 4em;
+  text-align: center;
 }
 
 .otters-achtergrond-img {
