@@ -56,7 +56,7 @@ Tijdens de les opdrachten gemaakt samen met een duo om verschillende cookies pop
 HTML landmark role elements zijn speciale structurele secties op een webpagina die aangeven waar belangrijke onderdelen zich bevinden.
 
 2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-Heading elementen zijn HTML-tags zoals <h1> die worden gebruikt om structuur en hiërarchie van de inhoud op een webpagina te bepalen. <h1> is dan bijvoorbeeld de belangrijkste kop.
+Heading elementen zijn HTML-tags zoals h1 die worden gebruikt om structuur en hiërarchie van de inhoud op een webpagina te bepalen. h1 is dan bijvoorbeeld de belangrijkste kop.
 
 3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 Ik accepteer automatisch altijd cookies en ik ben niet bezig met bijvoorbeeld voorkeuren te selecteren of de privacy redenen door te lezen.
