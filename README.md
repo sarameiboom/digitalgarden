@@ -4,6 +4,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 28 sept - 
+
+Samen in een groepje 5 deelvragen bedacht over de hoofdvraag: "Wie is verantwoordelijk wanneer AI propaganda als betrouwbare informatie presenteert?". Vervolgens hebben wij over 5 deelvragen van een ander groepje met de hoofdvraag: "Kan een machine onderscheid maken tussen informatie, propaganda en desinformatie?", onderzoeksmethodes besproken en uitgekozen voor hun bedachte deelvragen.
+
+<img width="5712" height="4284" alt="IMG_9573" src="https://github.com/user-attachments/assets/c8f5f474-fc9f-46b7-8577-fd980499671d" />
+<img width="5712" height="4284" alt="IMG_9574" src="https://github.com/user-attachments/assets/bc526f6e-f948-47df-bfeb-4e02e504eb04" />
+
+---
+
 ### 24 sept - Website aanpassingen HTML & CSS
 
 Deze dag heb ik aanpassingen gemaakt aan de HTML en CSS van de website. Dit zijn aanpassingen zoals het maken van een nieuwe pagina voor het steunen van otters, waar informatie te vinden zal zijn om de otters te kunnen steunen en helpen. Daarnaast de hoofdpagina de articles aangepast met stukjes tekst om deze te vullen inplaats van de opvul tekst die er stond. Ook een nieuwe pagina aangemaakt voor de Zeeotter zoals de opmaak van de Rivierotter zodat deze dezelfde lay-out hebben en gemakkelijk aangemaakt kunnen worden. Aan deze pagina's heb ik in de CSS ook aanpassingen gemaakt met gebruik van @media zodat wanneer de website op een kleiner scherm wordt bekeken (zoals telefoon), de afbeelding boven de tekst komt de staan.
