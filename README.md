@@ -17,6 +17,13 @@ Tijdens de les ben ik verder gaan werken aan mijn website. Ik heb de leuke-weetj
 <img width="1440" height="849" alt="Scherm­afbeelding 2026-09-28 om 13 29 26" src="https://github.com/user-attachments/assets/39bebe95-b0b9-4c99-9ba5-40fc2250389a" />
 <img width="1440" height="850" alt="Scherm­afbeelding 2026-09-28 om 13 29 16" src="https://github.com/user-attachments/assets/33f59cf1-4d4f-4496-a2ac-77c85c1633db" />
 
+**Screenreader opdracht**
+Tijdens de les hebben we kennis gemaakt met verschillende commands om de screenreader te kunnen gebruiken. Met deze commands en gebruik van de screenreader opdrachten gedaan om via de website van ns een bepaalde reis te plannen.
+
+<img width="4284" height="5712" alt="IMG_9578" src="https://github.com/user-attachments/assets/cb26d7c8-e1d3-4099-9756-4de41dfd19ae" />
+<img width="4284" height="5712" alt="IMG_9579" src="https://github.com/user-attachments/assets/62e1f309-25eb-4655-a3e2-f5db5b19ad89" />
+<img width="4032" height="3024" alt="IMG_9580" src="https://github.com/user-attachments/assets/72ac5226-200b-48b6-9e7e-084077e61ad1" />
+
 ---
 
 ### 24 sept - Website aanpassingen HTML & CSS
