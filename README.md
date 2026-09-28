@@ -11,8 +11,8 @@ Samen in een groepje 5 deelvragen bedacht over de hoofdvraag: "Wie is verantwoor
 <img width="5712" height="4284" alt="IMG_9573" src="https://github.com/user-attachments/assets/c8f5f474-fc9f-46b7-8577-fd980499671d" />
 <img width="5712" height="4284" alt="IMG_9574" src="https://github.com/user-attachments/assets/bc526f6e-f948-47df-bfeb-4e02e504eb04" />
 
-*Website aanpassingen*
-Tijdens de les ben ik verder gaan werken aan mijn website. Ik heb de leuke-weetjes pagina aangepast in CSS, om deze meer vorm te geven.
+# Website aanpassingen
+Tijdens de les ben ik verder gaan werken aan mijn website. Ik heb de leuke-weetjes pagina aangepast in CSS, om deze meer vorm te geven. Hierbij heb ik gebruik gemaakt van margins van de titels en max-width zodat deze zich goed aanpassen met de verschillende breedte van schermen.
 
 <img width="1440" height="849" alt="Scherm­afbeelding 2026-09-28 om 13 29 26" src="https://github.com/user-attachments/assets/39bebe95-b0b9-4c99-9ba5-40fc2250389a" />
 <img width="1440" height="850" alt="Scherm­afbeelding 2026-09-28 om 13 29 16" src="https://github.com/user-attachments/assets/33f59cf1-4d4f-4496-a2ac-77c85c1633db" />
