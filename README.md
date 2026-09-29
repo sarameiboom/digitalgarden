@@ -4,6 +4,60 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 28 sept - 
+
+Samen in een groepje 5 deelvragen bedacht over de hoofdvraag: "Wie is verantwoordelijk wanneer AI propaganda als betrouwbare informatie presenteert?". Vervolgens hebben wij over 5 deelvragen van een ander groepje met de hoofdvraag: "Kan een machine onderscheid maken tussen informatie, propaganda en desinformatie?", onderzoeksmethodes besproken en uitgekozen voor hun bedachte deelvragen.
+
+<img width="5712" height="4284" alt="IMG_9573" src="https://github.com/user-attachments/assets/c8f5f474-fc9f-46b7-8577-fd980499671d" />
+<img width="5712" height="4284" alt="IMG_9574" src="https://github.com/user-attachments/assets/bc526f6e-f948-47df-bfeb-4e02e504eb04" />
+
+
+**Website aanpassingen**
+Tijdens de les ben ik verder gaan werken aan mijn website. Ik heb de leuke-weetjes pagina aangepast in CSS, om deze meer vorm te geven. Hierbij heb ik gebruik gemaakt van margins van de titels en max-width zodat deze zich goed aanpassen met de verschillende breedte van schermen.
+
+<img width="1440" height="849" alt="Scherm­afbeelding 2026-09-28 om 13 29 26" src="https://github.com/user-attachments/assets/39bebe95-b0b9-4c99-9ba5-40fc2250389a" />
+<img width="1440" height="850" alt="Scherm­afbeelding 2026-09-28 om 13 29 16" src="https://github.com/user-attachments/assets/33f59cf1-4d4f-4496-a2ac-77c85c1633db" />
+
+
+**Screenreader opdracht**
+Tijdens de les hebben we kennis gemaakt met verschillende commands om de screenreader te kunnen gebruiken. Met deze commands en gebruik van de screenreader opdrachten gedaan om via de website van ns een bepaalde reis te plannen.
+
+<img width="4284" height="5712" alt="IMG_9578" src="https://github.com/user-attachments/assets/cb26d7c8-e1d3-4099-9756-4de41dfd19ae" />
+<img width="4284" height="5712" alt="IMG_9579" src="https://github.com/user-attachments/assets/62e1f309-25eb-4655-a3e2-f5db5b19ad89" />
+<img width="4032" height="3024" alt="IMG_9580" src="https://github.com/user-attachments/assets/72ac5226-200b-48b6-9e7e-084077e61ad1" />
+
+**Check-out**
+1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+Dat hij het minder interessant vindt hoe de website wordt ervaren maar zich liever meer bezig houdt met de structuur van de code er achter.
+
+2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+- Zicht
+- Motorisch
+- Cognitief
+- Audio
+
+3. Noem drie manieren om door een website te navigeren met jouw screenreader.
+- Linklijst openen en doorheen navigeren
+- Navigeren per element
+- Navigeren per koptekst
+
+---
+
+### 24 sept - Website aanpassingen HTML & CSS
+
+Deze dag heb ik aanpassingen gemaakt aan de HTML en CSS van de website. Dit zijn aanpassingen zoals het maken van een nieuwe pagina voor het steunen van otters, waar informatie te vinden zal zijn om de otters te kunnen steunen en helpen. Daarnaast de hoofdpagina de articles aangepast met stukjes tekst om deze te vullen inplaats van de opvul tekst die er stond. Ook een nieuwe pagina aangemaakt voor de Zeeotter zoals de opmaak van de Rivierotter zodat deze dezelfde lay-out hebben en gemakkelijk aangemaakt kunnen worden. Aan deze pagina's heb ik in de CSS ook aanpassingen gemaakt met gebruik van @media zodat wanneer de website op een kleiner scherm wordt bekeken (zoals telefoon), de afbeelding boven de tekst komt de staan.
+Ook heb ik verdere aanpassingen gemaakt na het gekregen feedback van afgelopen vrijdag.
+Verdere CSS aanpassingen zijn de titels van de pagina's (h1) die een andere, meer speelse font hebben gekregen.
+Hiernaast heb ik het light & dark thema aangepast met de kleuren. Hiervoor heb ik custom properties gebruikt die ik nog niet had aangemaakt.
+
+<img width="1440" height="761" alt="Scherm­afbeelding 2026-09-25 om 12 11 07" src="https://github.com/user-attachments/assets/bedead37-3008-4545-a939-5206ff19b09a" />
+<img width="1440" height="755" alt="Scherm­afbeelding 2026-09-25 om 12 11 18" src="https://github.com/user-attachments/assets/f017cd61-5f4f-4e00-90f2-e9c1ec0123e3" />
+<img width="1440" height="763" alt="Scherm­afbeelding 2026-09-25 om 12 11 29" src="https://github.com/user-attachments/assets/6d86b4fd-879f-46ea-9012-ef97dd1b2af8" />
+<img width="718" height="762" alt="Scherm­afbeelding 2026-09-25 om 12 11 41" src="https://github.com/user-attachments/assets/6ee33108-363b-4c4c-bbd8-647cc96a0e12" />
+<img width="571" height="760" alt="Scherm­afbeelding 2026-09-25 om 12 12 20" src="https://github.com/user-attachments/assets/cf7409e5-0e13-4688-bb37-7f604bd030e4" />
+
+---
+
 ### 23 sept - Workshop Dark patterns & Wireframes/Wireflows
 Aan het begin van de ochtend een presentatie gehad van Hans de Zwart over privacy. Met deze informatie begrijp ik de privacy redenen beter voor gebruik van mijn eigen website en hoe ik hiermee zou kunnen omgaan. Vervolgens hebben wij in een groepje opdrachten gemaakt over dark paters van het web zoals bij een eigen gekozen website. We hebben van de website GinaTricot een wireframe/wireflow geschetst waarbij dark patterns te zien zijn. Hiernaast hebben we deze dark patterns besproken en aangegeven.
 
@@ -41,7 +95,7 @@ Tijdens de les opdrachten gemaakt samen met een duo om verschillende cookies pop
 HTML landmark role elements zijn speciale structurele secties op een webpagina die aangeven waar belangrijke onderdelen zich bevinden.
 
 2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-Heading elementen zijn HTML-tags zoals <h1> die worden gebruikt om structuur en hiërarchie van de inhoud op een webpagina te bepalen. <h1> is dan bijvoorbeeld de belangrijkste kop.
+Heading elementen zijn HTML-tags zoals h1 die worden gebruikt om structuur en hiërarchie van de inhoud op een webpagina te bepalen. h1 is dan bijvoorbeeld de belangrijkste kop.
 
 3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 Ik accepteer automatisch altijd cookies en ik ben niet bezig met bijvoorbeeld voorkeuren te selecteren of de privacy redenen door te lezen.
