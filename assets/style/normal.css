@@ -48,6 +48,11 @@ li a:hover {
   color: white;
 }
 
+li a:focus {
+  background-color: #07024d;
+  color: #ffffff;
+}
+
 h1 {
   margin: 1em 1em;
   font-family: "Caveat Brush", cursive;
