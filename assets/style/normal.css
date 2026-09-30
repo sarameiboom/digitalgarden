@@ -13,6 +13,7 @@ html {
   --color-magenta: light-dark(darkmagenta, magenta);
   --color-yellow: light-dark(goldenrod, yellow);
   --color-blue: light-dark(rgb(130, 184, 255), #7b75ea);
+  --color-button: light-dark(rgb(198, 231, 255), rgb(72, 70, 179));
   --color-dark: #07024d;
   --color-light: #a6cfff;
 
@@ -151,4 +152,22 @@ h4 {
   margin-left: 2.5em;
   margin-top: -3.5em;
   max-width: 50%;
+}
+
+dialog {
+  max-width: 25em;
+}
+
+button {
+  padding: 0.5em;
+  margin: 1em;
+  border: none;
+  border-radius: 0.5em;
+  font-size: 1em;
+  font-weight: 600;
+  background-color: var(--color-button);
+
+  &:hover {
+    cursor: pointer;
+  }
 }
