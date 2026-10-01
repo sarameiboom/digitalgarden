@@ -4,7 +4,22 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 28 sept - 
+### 01 okt - Website aanpassingen
+
+De pagina "Steun de otters" aangepast door content te plaatsen van de website Stichting WWF over otters. Via deze pagina kunnen gebruikers zich informeren over het steunen van de otter in Nederland en hierbij de mogelijkheid om te doneren met een link naar de officiele website van de WWF.
+Bij het klikken van de button gaat de gebruiker naar de website van de WWF die via een nieuw tabblad wordt geopent.
+
+<img width="1440" height="761" alt="Scherm­afbeelding 2026-10-01 om 22 12 11" src="https://github.com/user-attachments/assets/fe8fb46e-30a8-4ab3-aece-38329e217ff3" />
+
+---
+
+### 30 sept - Werking van de screenreader en de website
+
+Tijdens de les bezig geweest met het gebruik van de screenreader met de website. Bladen ingevuld met regels waaraan de website zou moeten voldoen voor gebruik met een beperking waarbij je de screenreader kan gebruiken. Deze heb ik ingevuld en genoteerd wat ik nog aan de website zou moeten aanpassen voor een meer optimaal gebruik van de website met de screenreader.
+
+---
+
+### 28 sept - Screenreader gebruik & website aanpassingen
 
 Samen in een groepje 5 deelvragen bedacht over de hoofdvraag: "Wie is verantwoordelijk wanneer AI propaganda als betrouwbare informatie presenteert?". Vervolgens hebben wij over 5 deelvragen van een ander groepje met de hoofdvraag: "Kan een machine onderscheid maken tussen informatie, propaganda en desinformatie?", onderzoeksmethodes besproken en uitgekozen voor hun bedachte deelvragen.
 
