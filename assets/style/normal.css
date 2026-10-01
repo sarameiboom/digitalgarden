@@ -178,3 +178,14 @@ button {
     cursor: pointer;
   }
 }
+
+#Doneer {
+  padding: 0.7em;
+}
+
+.zwemmende-zeeotters {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
