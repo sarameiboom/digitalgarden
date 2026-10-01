@@ -58,6 +58,16 @@ Dat hij het minder interessant vindt hoe de website wordt ervaren maar zich liev
 
 ---
 
+### 25 sept - Cookie button
+
+Aan de website heb ik een cookie button aan toegevoegd onderaan de pagina met de mogelijkheid om de vereiste cookies of alle cookies te accepteren. Deze button staat onderaan de website met gebruik van een dialog waarin alle informatie voor de gebruiker te lezen is.
+
+Door de opdrachten en uitwerking van de deepdive over buttons en dialogs van Sanne heb ik geleerd hoe ik een werkende button kan toevoegen aan de website en een dialog hieraan kan linken in html en css.
+
+<img width="1440" height="753" alt="Scherm­afbeelding 2026-10-01 om 22 51 13" src="https://github.com/user-attachments/assets/890d9e7d-40cb-42fb-87e6-71280ddd51c5" />
+
+---
+
 ### 24 sept - Website aanpassingen HTML & CSS
 
 Deze dag heb ik aanpassingen gemaakt aan de HTML en CSS van de website. Dit zijn aanpassingen zoals het maken van een nieuwe pagina voor het steunen van otters, waar informatie te vinden zal zijn om de otters te kunnen steunen en helpen. Daarnaast de hoofdpagina de articles aangepast met stukjes tekst om deze te vullen inplaats van de opvul tekst die er stond. Ook een nieuwe pagina aangemaakt voor de Zeeotter zoals de opmaak van de Rivierotter zodat deze dezelfde lay-out hebben en gemakkelijk aangemaakt kunnen worden. Aan deze pagina's heb ik in de CSS ook aanpassingen gemaakt met gebruik van @media zodat wanneer de website op een kleiner scherm wordt bekeken (zoals telefoon), de afbeelding boven de tekst komt de staan.
