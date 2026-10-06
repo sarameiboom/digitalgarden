@@ -17,10 +17,28 @@ In de les hebben wij gewerkt aan een nieuwe opdracht om typografie te verwerken 
 Mijn opzet brengt gevoel en emotie toe aan stukken tekst die geen vormgeving hebben
 
 *3. Wat is een volgende stap: welke schets vind je het meest geschikt om digitaal uit te werken? *
-De schets die ik het meest geschikt vind om digitaal uit te werken
+Deze schets vind ik het meest geschikt om digitaal uit te werken, vanwege de mogelijkheid om creatief gebruik te kunnen maken van de betekenis van de woorden in de typografie stijl.
+<img width="4032" height="3024" alt="IMG_9650" src="https://github.com/user-attachments/assets/906d1c8d-d890-4408-bab8-2c35e7cbfc3f" />
+<img width="4031" height="3023" alt="IMG_9649" src="https://github.com/user-attachments/assets/abb98295-9267-495d-a9ab-c85c3ee56460" />
+
 
 *4. Hoe zou je dit kunnen aanpakken in code? (vraag hulp wanneer je het niet zeker weet)*
 Gebruik van verschillende fonts, dik gedrukte letters, schuin maken van letters, white spacing, de h’s (h1, h2, h3, …), etc.
+
+<img width="1536" height="2048" alt="a99b7b54-c9c4-4426-8fe3-32a46bd35088" src="https://github.com/user-attachments/assets/a386ef27-1fa2-45b2-85b1-bb5d040bcb85" />
+<img width="1536" height="2048" alt="37bdd0e0-d181-4d4d-a165-65e3e8d0a299" src="https://github.com/user-attachments/assets/f23cb278-2cef-4778-841e-9042fbc77514" />
+
+<img width="4284" height="5712" alt="IMG_9648" src="https://github.com/user-attachments/assets/9c333123-323b-4603-b7ce-7f0abc1dabd7" />
+
+**Check-out**
+*1. Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. *
+Deze termen zijn typografische ontwerp termen die te maken hebben met afstanden en uitlijning van tekst, lay-out en historie, compositie en beeldtaal.
+
+*2. Wat is jouw ideale regellengte (measure)? Leg uit waarom. *
+De aangeraden ideale regellengte door typografen is 66 tekens. Als je namelijk te veel of te weinig tekens op een regel plaatst, heeft dat directe impact op hoe comfortabel iemand een tekst leest.
+
+*3. Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom? *
+Ik zou kiezen voor grootte als ik maar 1 variabele tot mijn beschikking had om hiërarchie aan te brengen. Dit lijkt mij het meest belangrijke variabele om te hebben voor de structuur van tekst, zoals wat het meest belangrijke is om te lezen of wat meteen je aandacht zou moeten trekken en wat daarna.
 
 ---
 
