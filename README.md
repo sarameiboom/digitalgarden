@@ -4,8 +4,6 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
----
-
 ### 05 okt - Typografie
 
 In de les hebben wij gewerkt aan een nieuwe opdracht om typografie te verwerken in songteksten. Dit na het gezamelijk lezen van artikels over typografie en het werken hiermee. Ook hebben we een presentatie van Diederik over typografie gekregen met verschillende voorbeelden en uitleg van de opdracht. Voor deze opdracht heb ik Let it happen van Tame Impala uitgekozen, zelf ken ik het nummer al goed voor het gevoel, en na het lezen van de tekst heb ik hierbij al meerdere ideeën bij bedacht. Deze ideeën heb ik vervolgens geschetst op papier waarmee ik samen met Shakila naar elkaars schetsen hebben gekeken en de vragen in DLO hebben beantwoord.
