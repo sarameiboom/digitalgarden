@@ -4,6 +4,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 06 okt - Deep dive + Typografie opdracht songtekst
+
+Deze dag heb ik besteed om het huiswerk te maken voor aankomende woensdag. Hiervoor heb ik de deep dive van Vasilis gevolgd over interessantere layouts. Met deze deep dive heb ik geleerd over verschillende code om bijvoorbeeld een header zijwaards te kunnen plaatsen en hoe je deze vanaf een bepaalde scherm grootte pas te zien krijgt. Ook ben ik achter de code gekomen hoe je bijvoorbeeld een header bovenin het scherm blijft staan wanneer je naar beneden scrollt. Dit zijn een aantal voorbeelden van het interessanter maken van de layout en kunnen de website al een stuk meer vorm geven.
+<img width="1440" height="754" alt="Scherm­afbeelding 2026-10-06 om 11 56 47" src="https://github.com/user-attachments/assets/f4804b80-8c91-464f-8f4f-23c787a6cde1" />
+
+
+Hiernaast ben ik verder gegaan met de typografie songtekst opdracht, om mijn schetsen digitaal te maken. Dit vond ik nog best moeilijk sinds je geen veel mogelijkheden of opties hebt om er daadwerkelijk veel aan te kunnen veranderen of meer gevoel te geven.
+<img width="1440" height="847" alt="Scherm­afbeelding 2026-10-06 om 13 00 56" src="https://github.com/user-attachments/assets/6b003025-dc8a-4b34-8b4a-ecbdd50daea0" />
+
+
+---
+
 ### 05 okt - Typografie
 
 In de les hebben wij gewerkt aan een nieuwe opdracht om typografie te verwerken in songteksten. Dit na het gezamelijk lezen van artikels over typografie en het werken hiermee. Ook hebben we een presentatie van Diederik over typografie gekregen met verschillende voorbeelden en uitleg van de opdracht. Voor deze opdracht heb ik Let it happen van Tame Impala uitgekozen, zelf ken ik het nummer al goed voor het gevoel, en na het lezen van de tekst heb ik hierbij al meerdere ideeën bij bedacht. Deze ideeën heb ik vervolgens geschetst op papier waarmee ik samen met Shakila naar elkaars schetsen hebben gekeken en de vragen in DLO hebben beantwoord.
