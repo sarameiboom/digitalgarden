@@ -4,6 +4,36 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+---
+
+### 05 okt - Typografie
+
+In de les hebben wij gewerkt aan een nieuwe opdracht om typografie te verwerken in songteksten. Dit na het gezamelijk lezen van artikels over typografie en het werken hiermee. Ook hebben we een presentatie van Diederik over typografie gekregen met verschillende voorbeelden en uitleg van de opdracht. Voor deze opdracht heb ik Let it happen van Tame Impala uitgekozen, zelf ken ik het nummer al goed voor het gevoel, en na het lezen van de tekst heb ik hierbij al meerdere ideeën bij bedacht. Deze ideeën heb ik vervolgens geschetst op papier waarmee ik samen met Shakila naar elkaars schetsen hebben gekeken en de vragen in DLO hebben beantwoord.
+
+*1. Wat wil je bij de kijker bereiken met je vormgeving?*
+ Met gebruik van typografie wil ik gevoel en emotie overbrengen die uit de tekst komt
+
+*2. Hoe voegt jouw opzet iets toe aan de tekst? *
+Mijn opzet brengt gevoel en emotie toe aan stukken tekst die geen vormgeving hebben
+
+*3. Wat is een volgende stap: welke schets vind je het meest geschikt om digitaal uit te werken? *
+De schets die ik het meest geschikt vind om digitaal uit te werken
+
+*4. Hoe zou je dit kunnen aanpakken in code? (vraag hulp wanneer je het niet zeker weet)*
+Gebruik van verschillende fonts, dik gedrukte letters, schuin maken van letters, white spacing, de h’s (h1, h2, h3, …), etc.
+
+---
+
+### 02 okt - Retrospective
+
+Samen met Vasilis gekeken naar mijn website samen met de competenties waaraan mijn website zou moeten voldoen na deze sprint. Hierbij hebben we de screenreader doorgenomen met een aantal vragen waarbij alles werkte. Wel heb ik deze sprint meer kunnen documenteren sinds ik alles wel gedaan heb maar niet volledig in de readme heb staan zoals een paar opdrachten bewijs en wat ik geleerd heb.
+Daarnaast heb ik de retrospective ingevuld met hoe de afgelopen sprint voor mij ging en hoe ik deze heb ervaren. Hierbij heb ik een grafiek gemaakt met ups en downs en een metafoor getekend om deze sprint te omschrijven.
+
+<img width="4284" height="5712" alt="IMG_9632" src="https://github.com/user-attachments/assets/0c5ae8f2-5b8e-4de9-9fe6-82439f6f0794" />
+<img width="5711" height="4283" alt="IMG_9630" src="https://github.com/user-attachments/assets/c1595c81-e4b9-4ce2-b32a-d2dff1574004" />
+
+---
+
 ### 01 okt - Website aanpassingen
 
 De pagina "Steun de otters" aangepast door content te plaatsen van de website Stichting WWF over otters. Via deze pagina kunnen gebruikers zich informeren over het steunen van de otter in Nederland en hierbij de mogelijkheid om te doneren met een link naar de officiele website van de WWF.
