@@ -4,6 +4,39 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 07 okt - Typografie songtekst opdracht
+
+Verder gewerkt aan de typografie songtekst opdracht, verschillende versies gemaakt om van te leren met verschillende opties. Ik ben mij wat meer gaan verdiepen in verschillende css codes om stukken tekst bijvoorbeeld te kunnen draaien of schuin te trekken.
+Verschillende css codes die ik heb geleerd die te maken hebben met transform:
+- Translate (x, y): verplaatst een element horizontaal en/of verticaal ten opzichte van de oorspronkelijke positie
+- Rotate: draait een element om een bepaald aantal graden bijvoorbeeld (45deg)
+- Scale (x, y ): vergroot of verkleint een element in de breedte en hoogte
+- Skew: hellingen of kantelt het element
+
+Met deze kennis heb ik verschillende versies gemaakt om deze uit te testen. Graag wil ik hier nog verder aan werken met bijvoorbeeld animaties of de grid aan te passen.
+
+<img width="1440" height="762" alt="Scherm­afbeelding 2026-10-07 om 11 18 43" src="https://github.com/user-attachments/assets/7663933e-362b-4930-bba7-f6536935321a" />
+<img width="1440" height="761" alt="Scherm­afbeelding 2026-10-07 om 11 24 48" src="https://github.com/user-attachments/assets/412ce5e0-8837-4ba4-b560-0301ab2e344f" />
+<img width="1440" height="762" alt="Scherm­afbeelding 2026-10-07 om 11 35 04" src="https://github.com/user-attachments/assets/699b60ed-1797-45c4-90c3-408023d0adc6" />
+<img width="1440" height="763" alt="Scherm­afbeelding 2026-10-07 om 11 50 10" src="https://github.com/user-attachments/assets/adb7504f-eecb-4c71-927c-557544b21203" />
+<img width="574" height="762" alt="Scherm­afbeelding 2026-10-07 om 11 50 21" src="https://github.com/user-attachments/assets/633d1276-83cc-45d0-9cad-349036398e3e" />
+<img width="1440" height="760" alt="Scherm­afbeelding 2026-10-07 om 11 54 04" src="https://github.com/user-attachments/assets/941048be-9a1c-43dd-bc86-32e9e3a09973" />
+
+
+**Check-out**
+*1. Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.*
+Een grid in je ontwerp toe passen zorgt voor structuur en rust in de lay-out. Voor de ontwerper is goed als hulpmiddel om elementen logisch, snel en herhaalbaar op de pagina te zetten. Voor de bezoeker zorgt het vooral voor visuele rust en een duidelijke hiërarchie.
+
+*2. Noem drie manieren om chaos in je ontwerp te voorkomen*
+- Duidelijke visuele hiërarchie
+- Gebruiken van voldoende witruimte
+- Beperken van kleur en verschillende fonts
+
+*3. Hoeveel gekkigheid moet er in je werk zitten?*
+De website kan er creatief en speels uitzien, als er maar een goede structuur in zit.
+
+---
+
 ### 06 okt - Deep dive + Typografie opdracht songtekst
 
 Deze dag heb ik besteed om het huiswerk te maken voor aankomende woensdag. Hiervoor heb ik de deep dive van Vasilis gevolgd over interessantere layouts. Met deze deep dive heb ik geleerd over verschillende code om bijvoorbeeld een header zijwaards te kunnen plaatsen en hoe je deze vanaf een bepaalde scherm grootte pas te zien krijgt. Ook ben ik achter de code gekomen hoe je bijvoorbeeld een header bovenin het scherm blijft staan wanneer je naar beneden scrollt. Dit zijn een aantal voorbeelden van het interessanter maken van de layout en kunnen de website al een stuk meer vorm geven.
