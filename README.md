@@ -6,6 +6,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 09 okt - Feedback en Typografie songtekst opdracht
 
+Deze dag heb ik nieuwe feedback gekregen van deze keer Vasilis, hierbij hebben we gekeken naar de typografie opdracht en konden wij onze vragen stellen over het vervolg en onze website. Bij het kijken naar mijn gemaakte typografie opdracht kwam naar voren dat ik beide visuele aanpassingen heb gemaakt in de tekst naar ritme van het nummer en naar betekenis van de woorden uit de songtekst. Vasilis heeft hierbij als feedback gegeven om eventueel hiervan 1 kant op te kiezen inplaats van beide en daarmee verder aan te werken.
+
+Hierbij ben ik nog verder gaan werken aan de typografie opdracht waarbij ik de tekst beter responsive heb gemaakt. Met de vorige versies kreeg ik deze niet responsive met de manier waarop de grids gebruikt werd. Hierdoor heb ik deze aanpassingen gemaakt waarnaast nog visuele aanpassingen van de woorden.
+
+<img width="1440" height="741" alt="Scherm­afbeelding 2026-10-21 om 14 19 36" src="https://github.com/user-attachments/assets/92da5243-c39f-4d5c-9647-16bf7675b97b" />
+
 ---
 
 ### 07 okt - Typografie songtekst opdracht
