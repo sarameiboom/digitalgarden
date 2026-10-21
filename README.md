@@ -10,6 +10,8 @@ Deze dag heb ik nieuwe feedback gekregen van deze keer Vasilis, hierbij hebben w
 
 Hierbij ben ik nog verder gaan werken aan de typografie opdracht waarbij ik de tekst beter responsive heb gemaakt. Met de vorige versies kreeg ik deze niet responsive met de manier waarop de grids gebruikt werd. Hierdoor heb ik deze aanpassingen gemaakt waarnaast nog visuele aanpassingen van de woorden.
 
+Verder heb ik geleerd hoe ik meerdere variabele kan gebruiken van hetzelfde lettertype. Zo heb ik met hulp van https://wakamaifondue.com de code ontdekt en mee getest hoe ik dit in mijn code kan zetten en aanpassen op verschillende mogelijkheden.
+
 <img width="1440" height="741" alt="Scherm­afbeelding 2026-10-21 om 14 19 36" src="https://github.com/user-attachments/assets/92da5243-c39f-4d5c-9647-16bf7675b97b" />
 
 ---
