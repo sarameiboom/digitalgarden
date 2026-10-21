@@ -14,6 +14,13 @@ Verder heb ik geleerd hoe ik meerdere variabele kan gebruiken van hetzelfde lett
 
 <img width="1440" height="741" alt="Scherm­afbeelding 2026-10-21 om 14 19 36" src="https://github.com/user-attachments/assets/92da5243-c39f-4d5c-9647-16bf7675b97b" />
 
+--
+
+Om animaties toe te voegen aan de typografie opdracht ben ik naar de deep dive van CSS animaties van Sanne gaan kijken. Hier heb ik geleerd hoe de keyframes codes werken in CSS en hoe ik deze kan toevoegen aan mijn code. Hiermee ben ik verschillende codes gaan testen zoals rotate, transform en letters spacing. Met deze kennis heb ik in de opdracht het woordje "down" geanimeerd om naar beneden te laten bewegen op het woord eronder "shoulders" zoals de referentie uit de songtekst.
+
+<img width="1440" height="759" alt="Scherm­afbeelding 2026-10-21 om 16 09 55" src="https://github.com/user-attachments/assets/9ad70571-2b1a-41e3-97c1-b91a8e85a63c" />
+
+
 ---
 
 ### 07 okt - Typografie songtekst opdracht
