@@ -4,6 +4,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 09 okt - Feedback en Typografie songtekst opdracht
+
+---
+
 ### 07 okt - Typografie songtekst opdracht
 
 Verder gewerkt aan de typografie songtekst opdracht, verschillende versies gemaakt om van te leren met verschillende opties. Ik ben mij wat meer gaan verdiepen in verschillende css codes om stukken tekst bijvoorbeeld te kunnen draaien of schuin te trekken.
