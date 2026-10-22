@@ -15,11 +15,13 @@ Deze code heb ik dus toegepast in mijn HTML en heeft ervoor gezorgd dat de songt
 
 ---
 
-### 21 okt - 
+### 21 okt - Bi-geekly & Animaties
 
 Deze dag hebben we een nieuwe bi-geekly gedaan samen in een groepje. Het onderwerp van deze week is of het web dood is. Hierbij hebben met de hoofdvraag "Hoe kan een digitaal, interactief product mensen helpen om betrouwbare en onbetrouwbare content op het internet van elkaar te onderscheiden?" deelvragen bedacht en opgezet met verschillende onderzoektechnieken. 
+Hiernaast heb ik de typografie songtekst opdracht aangepast met een paar meer animaties om de emotie van het nummer meer duidelijk te maken.
 
 <img width="2048" height="1536" alt="WhatsApp Image 2026-10-22 at 14 28 06" src="https://github.com/user-attachments/assets/518cfc30-fc50-4fc6-be8e-cf6046486927" />
+<img width="1439" height="750" alt="Scherm­afbeelding 2026-10-22 om 20 32 10" src="https://github.com/user-attachments/assets/cbe4c762-81d4-4030-9d9c-d2cf9738bdf7" />
 
 ---
 
