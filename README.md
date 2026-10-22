@@ -8,6 +8,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 Deze dag heb ik besteed aan het verbeteren van mijn website om klaar te maken voor de aankomende retrospective/feedback deze vrijdag.
 
+De typografie songtekst opdracht heb ik toegevoegd aan de website en in het menu geplaatst. Hiernaast heb ik de bronnen die ik heb gebruikt voor de website toegevoegd in de HTML zodat deze in de code terug gevonden kan worden.
+
 Een van de dingen die aan mijn website nog ontbrak was het openen van de songtekst pagina (de typografie opdracht) om deze te openen op een apart tabblad. Hiervoor heb ik nog een keer naar de deep dive van Vasilis gekeken uit sprint 2, meer interactie met HTML en CSS, waarbij ik in de HTML een target kan toevoegen aan de link code waarbij deze op een nieuw tabblad opent inplaats van openen in hetzelfde venster. Hierbij vroeg ik mij af wat de functie heeft tussen de haakjes zoals in de opdracht het woord "plaatjes" voor gebruikt wordt. Sinds ik dit in mijn eigen website ga gebruiken wil ik weten wat voor naam ik dan hiervoor zou moeten gebruiken dus wat de functie hiervan is. Dit heb ik vervolgens zelf opgezocht en ben hierbij achter gekomen dat de browser gebruik maakt van die naam om te onthouden in welk tabblad de link geopend moet worden.
 Deze code heb ik dus toegepast in mijn HTML en heeft ervoor gezorgd dat de songtekst pagina in een apart tabblad wordt geopend.
 
