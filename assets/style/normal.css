@@ -13,9 +13,11 @@ html {
   --color-magenta: light-dark(darkmagenta, magenta);
   --color-yellow: light-dark(goldenrod, yellow);
   --color-blue: light-dark(rgb(130, 184, 255), #7b75ea);
-  --color-button: light-dark(rgb(198, 231, 255), rgb(72, 70, 179));
+  --color-button: light-dark(rgb(202, 233, 255), rgb(72, 70, 179));
   --color-dark: #07024d;
   --color-light: #a6cfff;
+  --color-menu: light-dark(rgb(237, 248, 255), rgb(180, 179, 249));
+  --color-dialog-background: light-dark(rgb(178, 212, 253), rgb(23, 23, 54));
 
   --color-background: light-dark(var(--color-light), var(--color-dark));
   --color-text: var(--color-dark), light-dark(var(--color-light));
@@ -50,7 +52,7 @@ ul {
   margin: 3em 6em;
   padding: 0;
   width: fit-content;
-  background-color: #f1f1f1;
+  background-color: var(--color-menu);
   text-align: center;
 }
 
@@ -179,6 +181,8 @@ h4 {
 
 dialog {
   max-width: 25em;
+  background-color: var(--color-dialog-background);
+  border-radius: 40px;
 }
 
 button {
