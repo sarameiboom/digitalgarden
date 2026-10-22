@@ -130,6 +130,21 @@ Bij het klikken van de button gaat de gebruiker naar de website van de WWF die v
 
 Tijdens de les bezig geweest met het gebruik van de screenreader met de website. Bladen ingevuld met regels waaraan de website zou moeten voldoen voor gebruik met een beperking waarbij je de screenreader kan gebruiken. Deze heb ik ingevuld en genoteerd wat ik nog aan de website zou moeten aanpassen voor een meer optimaal gebruik van de website met de screenreader.
 
+Met deze opdracht heb ik meer kennis gekregen over de regels van de WCAG checklist en waar mijn website precies aan moet voldoen. Door deze checklist ben ik erachter gekomen dat: de homepage alleen een h1 en h3 bevat en hierbij h2 dus geskipt wordt, article links nog een focus state moeten krijgen en dat er een skip link toegevoegd moet worden.
+
+<img width="4849" height="1340" alt="Checklist" src="https://github.com/user-attachments/assets/9e980b53-70a0-4134-a475-3ca691e70d9d" />
+
+--
+**Check-out**
+*1. Waar staat WCAG en A11y voor?*
+Web Content Accessibility Guidelines (WCAG) is een geaccepteerde standaard voor de toegankelijkheid van websites die gebruikt worden door organisaties, bedrijven en overheden. The A11y project heeft de standaard omgezet in een bruikbare checklist.
+
+*2. Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?*
+Ik vind het lastiger om mijn laptop/websites allen te bedienen met een screenreader. Dit omdat ik wel wat meer commands ken met mijn toetsenbord om sneller en efficiënt te kunnen werken. Ik kan nog oefenen met het werken met de screenreader zoals bepaalde commands en mogelijkheden en deze zo goed mogelijk te laten werken met mijn website.
+
+*3. Met welke beperking rekening houden vind je het meest lastig?  Vind je dat je beperkt wordt in wat je kunt ontwerpen?  Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden?*
+De beperking die ik het meest lastig vind om rekening mee te houden is om blind de website te gebruiken. Om alle knoppen te kunnen vinden en in welke volgorde deze staan voor de gebruiker vind ik lastig om rekening mee te houden dat alles duidelijk blijft voor de gebruiker.
+
 ---
 
 ### 28 sept - Screenreader gebruik & website aanpassingen
