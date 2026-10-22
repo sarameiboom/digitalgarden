@@ -23,6 +23,22 @@ html {
   --border-width: 0.1em;
 }
 
+.skip-link {
+  position: absolute;
+  top: -3rem;
+  left: 0.5rem;
+  color: var(--color-text);
+  padding: 0.6em 1.2em;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  z-index: 2000;
+  transition: top 0.2s ease-in-out;
+}
+
+.skip-link:focus {
+  top: 0.5rem;
+}
+
 body {
   font-family: "Valley Sans", sans-serif;
   background: var(--color-background);
