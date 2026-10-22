@@ -66,9 +66,23 @@ h4 {
   font-variation-settings: "SRFS" 50;
 }
 
+@keyframes --loud-animation {
+  0% {
+    scale: 0;
+  }
+  100% {
+    scale: 1;
+  }
+}
+
 #loud {
   font-size: 35px;
   font-weight: 600;
+
+  display: inline-block;
+  animation-name: --loud-animation;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
 }
 
 #happen {
@@ -89,11 +103,25 @@ h4 {
   letter-spacing: 3px;
 }
 
+@keyframes --shadow-animation {
+  0% {
+    transform: translateX(1em);
+  }
+  100% {
+    transform: translateX(0em);
+  }
+}
+
 #shadow {
   font-style: italic;
   font-size: 30px;
   letter-spacing: -2.9px;
   font-weight: 250;
+
+  display: inline-block;
+  animation-name: --shadow-animation;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
 }
 
 @keyframes --down-animation {
