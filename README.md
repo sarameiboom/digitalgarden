@@ -16,7 +16,10 @@ Verder heb ik geleerd hoe ik meerdere variabele kan gebruiken van hetzelfde lett
 
 --
 
-Om animaties toe te voegen aan de typografie opdracht ben ik naar de deep dive van CSS animaties van Sanne gaan kijken. Hier heb ik geleerd hoe de keyframes codes werken in CSS en hoe ik deze kan toevoegen aan mijn code. Hiermee ben ik verschillende codes gaan testen zoals rotate, transform en letters spacing. Met deze kennis heb ik in de opdracht het woordje "down" geanimeerd om naar beneden te laten bewegen op het woord eronder "shoulders" zoals de referentie uit de songtekst.
+Om animaties toe te voegen aan de typografie opdracht ben ik naar de deep dive van CSS animaties van Sanne gaan kijken. Ik heb de deepdive zelf gevolgd met de oefeningen die in dlo staan via codepen. Hier heb ik geleerd hoe de keyframes codes werken in CSS en hoe ik deze kan toevoegen aan mijn code. Daarbij heb ik nu kennis over verschillende Keyframe codes om verschillende animaties te kunnen maken.
+Hiermee ben ik verschillende codes gaan testen zoals rotate, transform en letters spacing. Met deze kennis heb ik in de opdracht het woordje "down" geanimeerd om naar beneden te laten bewegen op het woord eronder "shoulders" zoals de referentie uit de songtekst.
+
+<img width="1440" height="735" alt="Scherm­afbeelding 2026-10-22 om 12 37 48" src="https://github.com/user-attachments/assets/312781eb-50e7-4880-969e-3213fbe2dd2f" />
 
 <img width="1440" height="759" alt="Scherm­afbeelding 2026-10-21 om 16 09 55" src="https://github.com/user-attachments/assets/9ad70571-2b1a-41e3-97c1-b91a8e85a63c" />
 
