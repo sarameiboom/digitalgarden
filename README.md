@@ -4,6 +4,25 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 22 okt - Werken aan de website & deep dives
+
+Deze dag heb ik besteed aan het verbeteren van mijn website om klaar te maken voor de aankomende retrospective/feedback deze vrijdag.
+
+Een van de dingen die aan mijn website nog ontbrak was het openen van de songtekst pagina (de typografie opdracht) om deze te openen op een apart tabblad. Hiervoor heb ik nog een keer naar de deep dive van Vasilis gekeken uit sprint 2, meer interactie met HTML en CSS, waarbij ik in de HTML een target kan toevoegen aan de link code waarbij deze op een nieuw tabblad opent inplaats van openen in hetzelfde venster. Hierbij vroeg ik mij af wat de functie heeft tussen de haakjes zoals in de opdracht het woord "plaatjes" voor gebruikt wordt. Sinds ik dit in mijn eigen website ga gebruiken wil ik weten wat voor naam ik dan hiervoor zou moeten gebruiken dus wat de functie hiervan is. Dit heb ik vervolgens zelf opgezocht en ben hierbij achter gekomen dat de browser gebruik maakt van die naam om te onthouden in welk tabblad de link geopend moet worden.
+Deze code heb ik dus toegepast in mijn HTML en heeft ervoor gezorgd dat de songtekst pagina in een apart tabblad wordt geopend.
+
+<img width="1440" height="758" alt="Scherm­afbeelding 2026-10-22 om 16 17 15" src="https://github.com/user-attachments/assets/799626ec-562b-45ef-9a0f-8c9fa9c8817c" />
+
+---
+
+### 21 okt - 
+
+Deze dag hebben we een nieuwe bi-geekly gedaan samen in een groepje. Het onderwerp van deze week is of het web dood is. Hierbij hebben met de hoofdvraag "Hoe kan een digitaal, interactief product mensen helpen om betrouwbare en onbetrouwbare content op het internet van elkaar te onderscheiden?" deelvragen bedacht en opgezet met verschillende onderzoektechnieken. 
+
+<img width="2048" height="1536" alt="WhatsApp Image 2026-10-22 at 14 28 06" src="https://github.com/user-attachments/assets/518cfc30-fc50-4fc6-be8e-cf6046486927" />
+
+---
+
 ### 09 okt - Feedback en Typografie songtekst opdracht
 
 Deze dag heb ik nieuwe feedback gekregen van deze keer Vasilis, hierbij hebben we gekeken naar de typografie opdracht en konden wij onze vragen stellen over het vervolg en onze website. Bij het kijken naar mijn gemaakte typografie opdracht kwam naar voren dat ik beide visuele aanpassingen heb gemaakt in de tekst naar ritme van het nummer en naar betekenis van de woorden uit de songtekst. Vasilis heeft hierbij als feedback gegeven om eventueel hiervan 1 kant op te kiezen inplaats van beide en daarmee verder aan te werken.
@@ -402,6 +421,10 @@ Door de Visual Research heb ik een beter beeld gekregen met hoe ik mijn website 
 
 3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
    Het deel van de crazy 8 die ik het liefst wil gaan uitvoeren of verder zou willen onderzoeken is het idee om verschillende lijnen en vormen te kunnen creëren die in verbinding komt met de gehele pagina.
+
+---
+
+Eerdere logs zijn door een fout gewist uit de readme. Hierdoor zijn de dagen voor deze logs weg met werk zoals de eerste deep dives/workshop en check-outs etc.
 
 ---
 
