@@ -1,0 +1,119 @@
+/* MARK: fonts */
+@font-face {
+  font-family: "Seraphs";
+  src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
+}
+/* MARK: items */
+body {
+  font-family: "Seraphs";
+  display: grid;
+  grid-template-columns: auto 1fr;
+}
+
+header {
+  font-size: 50px;
+  font-weight: 600;
+  padding: 10px;
+  position: sticky;
+  writing-mode: sideways-lr;
+  top: 5.5555vi;
+}
+
+main {
+  font-size: 16px;
+  font-weight: 150;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto 1fr;
+  gap: 3em;
+  padding-left: 60px;
+  padding-right: 50px;
+  line-height: 25px;
+}
+
+p {
+}
+
+h1 {
+  font-size: 16px;
+  font-weight: 150;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: 150;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: 150;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: 150;
+}
+
+#all {
+  font-size: 20px;
+  letter-spacing: 5px;
+}
+
+#noise {
+  font-size: 25px;
+  font-weight: 170;
+  font-style: italic;
+  font-variation-settings: "SRFS" 50;
+}
+
+#loud {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+#happen {
+  display: inline-block;
+  font-style: italic;
+  font-size: 19px;
+  font-variation-settings:
+    "wght" 160,
+    "SRFS" 30;
+}
+
+#haakjes {
+  font-size: 13px;
+}
+
+#running {
+  font-style: italic;
+  letter-spacing: 3px;
+}
+
+#shadow {
+  font-style: italic;
+  font-size: 30px;
+  letter-spacing: -2.9px;
+  font-weight: 250;
+}
+
+@keyframes --down-animation {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(8px);
+  }
+}
+
+#down {
+  display: inline-block;
+  animation-name: --down-animation;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+#shoulders {
+  font-size: 27px;
+  letter-spacing: 3.5px;
+  font-weight: 300;
+}

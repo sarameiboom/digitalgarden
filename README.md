@@ -154,13 +154,11 @@ Samen in een groepje 5 deelvragen bedacht over de hoofdvraag: "Wie is verantwoor
 <img width="5712" height="4284" alt="IMG_9573" src="https://github.com/user-attachments/assets/c8f5f474-fc9f-46b7-8577-fd980499671d" />
 <img width="5712" height="4284" alt="IMG_9574" src="https://github.com/user-attachments/assets/bc526f6e-f948-47df-bfeb-4e02e504eb04" />
 
-
 **Website aanpassingen**
 Tijdens de les ben ik verder gaan werken aan mijn website. Ik heb de leuke-weetjes pagina aangepast in CSS, om deze meer vorm te geven. Hierbij heb ik gebruik gemaakt van margins van de titels en max-width zodat deze zich goed aanpassen met de verschillende breedte van schermen.
 
 <img width="1440" height="849" alt="Scherm­afbeelding 2026-09-28 om 13 29 26" src="https://github.com/user-attachments/assets/39bebe95-b0b9-4c99-9ba5-40fc2250389a" />
 <img width="1440" height="850" alt="Scherm­afbeelding 2026-09-28 om 13 29 16" src="https://github.com/user-attachments/assets/33f59cf1-4d4f-4496-a2ac-77c85c1633db" />
-
 
 **Screenreader opdracht**
 Tijdens de les hebben we kennis gemaakt met verschillende commands om de screenreader te kunnen gebruiken. Met deze commands en gebruik van de screenreader opdrachten gedaan om via de website van ns een bepaalde reis te plannen.
@@ -170,16 +168,19 @@ Tijdens de les hebben we kennis gemaakt met verschillende commands om de screenr
 <img width="4032" height="3024" alt="IMG_9580" src="https://github.com/user-attachments/assets/72ac5226-200b-48b6-9e7e-084077e61ad1" />
 
 **Check-out**
+
 1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
-Dat hij het minder interessant vindt hoe de website wordt ervaren maar zich liever meer bezig houdt met de structuur van de code er achter.
+   Dat hij het minder interessant vindt hoe de website wordt ervaren maar zich liever meer bezig houdt met de structuur van de code er achter.
 
 2. Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+
 - Zicht
 - Motorisch
 - Cognitief
 - Audio
 
 3. Noem drie manieren om door een website te navigeren met jouw screenreader.
+
 - Linklijst openen en doorheen navigeren
 - Navigeren per element
 - Navigeren per koptekst
@@ -212,64 +213,71 @@ Hiernaast heb ik het light & dark thema aangepast met de kleuren. Hiervoor heb i
 ---
 
 ### 23 sept - Workshop Dark patterns & Wireframes/Wireflows
+
 Aan het begin van de ochtend een presentatie gehad van Hans de Zwart over privacy. Met deze informatie begrijp ik de privacy redenen beter voor gebruik van mijn eigen website en hoe ik hiermee zou kunnen omgaan. Vervolgens hebben wij in een groepje opdrachten gemaakt over dark paters van het web zoals bij een eigen gekozen website. We hebben van de website GinaTricot een wireframe/wireflow geschetst waarbij dark patterns te zien zijn. Hiernaast hebben we deze dark patterns besproken en aangegeven.
 
-1.
-<img width="3820" height="2806" alt="WhatsApp Image 2026-09-23 at 11 47 06" src="https://github.com/user-attachments/assets/dc1126d5-5ed2-4b1a-bd76-90b0d7ed2fec" />
+1.  <img width="3820" height="2806" alt="WhatsApp Image 2026-09-23 at 11 47 06" src="https://github.com/user-attachments/assets/dc1126d5-5ed2-4b1a-bd76-90b0d7ed2fec" />
 
-2.⁠ ⁠Bespreek met elkaar welke elementen 'dark' zijn en hoe er met data omgegaan wordt. Maak vervolgens een herontwerp voor dit pattern.
+    2.⁠ ⁠Bespreek met elkaar welke elementen 'dark' zijn en hoe er met data omgegaan wordt. Maak vervolgens een herontwerp voor dit pattern.
 
-We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk? 
+We hebben naar de cookies pop-up gekeken. Er word nergens aangegeven om de cookies volledig af te wijzen. Er komt een knop met alleen vereiste cookies en alle cookies toestaan. Onderin de pop-up staat een knop met instellingen waar je verder kan kijken naar wat er met je data gaat gebeuren. Ook zijn niet alle noodzakelijke cookies noodzakelijk. Ook de tekst: "Statistische cookies helpen eigenaren van websites begrijpen hoe bezoekers hun website gebruiken, door anoniem gegevens te verzamelen en te rapporteren.", hoe kan dit anoniem zijn als deze cookie staat onder statistieken en niet onder noodzakelijk?
 
 Als je ook de noodzakelijke cookies niet wilt accepteren, krijg je deze pop-up:"Verplicht - kan niet worden gedeselecteerd. Noodzakelijke cookies helpen een website bruikbaarder te maken, door basisfuncties als paginanavigatie en toegang tot beveiligde gedeelten van de website mogelijk te maken. Zonder deze cookies kan de website niet naar behoren werken."
 
 **Check-Out**
+
 1. Wat is een wireflow en wat heb je er aan?
-Een wireflow zijn schetsen van losse webpagina's die met elkaar verbonden zijn en die laten zien hoe de gebruiker door de website heen navigeert.
+   Een wireflow zijn schetsen van losse webpagina's die met elkaar verbonden zijn en die laten zien hoe de gebruiker door de website heen navigeert.
 
 2. Wat zijn dark UX patterns? Geef drie voorbeelden...
-Dark UX patterns zijn misleidende ontwerp trucs die gebruikers stiekem dingen laat doen die ze eigen niet zouden willen. Voorbeelden hiervan zijn:
+   Dark UX patterns zijn misleidende ontwerp trucs die gebruikers stiekem dingen laat doen die ze eigen niet zouden willen. Voorbeelden hiervan zijn:
+
 - verborgen kosten, bijvoorbeeld kosten die pas bij het afrekenen toegevoegd worden aan het bedrag.
 - valse urgentie, bijvoorbeeld een timer bij een product met korting waarvan de korting zou gaan verlopen maar eigenlijk helemaal niet gebeurd.
 - visuele misleiding, visuele elementen op de website die de aandacht van de gebruiker afleiden.
 
 3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
-Bij het maken van bijvoorbeeld een cookie-banner of privacy-keuzehulp is het belangrijk om de gebruiker te respecteren met hun keuzes en voorkeuren. Om hiermee rekening te houden moet je denken aan het voorkomen van dark patterns, genoeg en alle informatie geven (transparantie), toegankelijkheid, context en timing.
+   Bij het maken van bijvoorbeeld een cookie-banner of privacy-keuzehulp is het belangrijk om de gebruiker te respecteren met hun keuzes en voorkeuren. Om hiermee rekening te houden moet je denken aan het voorkomen van dark patterns, genoeg en alle informatie geven (transparantie), toegankelijkheid, context en timing.
 
 ---
 
 ### 21 sept - Cookies en Popup meldingen
+
 Tijdens de les opdrachten gemaakt samen met een duo om verschillende cookies pop-up meldingen te bekijken en deze te onderzoeken. Hiervoor heb ik samen met Inger vragen beantwoord die daarover gaan en hoe ze met de cookies en meldingen omgaan. Hierdoor hebben wij een beter beeld gekregen over wat websites willen wat je doet, hoe ze deze meldingen laten zien en hoe je deze kan terug vinden.
 
 <img width="5712" height="4284" alt="IMG_9515" src="https://github.com/user-attachments/assets/a9a835f4-06aa-4ad9-914e-b82b14fad8e9" />
 
 **Check-Out**
+
 1. Wat zijn HTML landmark role elements?
-HTML landmark role elements zijn speciale structurele secties op een webpagina die aangeven waar belangrijke onderdelen zich bevinden.
+   HTML landmark role elements zijn speciale structurele secties op een webpagina die aangeven waar belangrijke onderdelen zich bevinden.
 
 2. Wat zijn heading elementen en hoe horen deze 'genest' te worden?
-Heading elementen zijn HTML-tags zoals h1 die worden gebruikt om structuur en hiërarchie van de inhoud op een webpagina te bepalen. h1 is dan bijvoorbeeld de belangrijkste kop.
+   Heading elementen zijn HTML-tags zoals h1 die worden gebruikt om structuur en hiërarchie van de inhoud op een webpagina te bepalen. h1 is dan bijvoorbeeld de belangrijkste kop.
 
 3. Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
-Ik accepteer automatisch altijd cookies en ik ben niet bezig met bijvoorbeeld voorkeuren te selecteren of de privacy redenen door te lezen.
+   Ik accepteer automatisch altijd cookies en ik ben niet bezig met bijvoorbeeld voorkeuren te selecteren of de privacy redenen door te lezen.
 
 ---
 
-### 18 sept - Retrospect, Voortgangsgesprek + Feedback 
+### 18 sept - Retrospect, Voortgangsgesprek + Feedback
+
 Tijdens de les het Retrospectieve ingevuld met mijn voortgang en hoe ik de afgelopen weken zelf heb ervaren. Ik merk dat ik erg moest wennen aan het begin om weer in de workflow te komen en weer bezig te zijn met schoolwerk. Dit duurde wat langer om op gang te komen en heb ik daardoor de afgelopen dagen wat harder moeten werken aan de website en opdrachten. Tijdens mijn voortgangsgesprek is dit ook naar voren gekomen maar kreeg heb ik alsnog erg positieve feedback gekregen over de website.
 
 <img width="921" height="467" alt="Scherm­afbeelding 2026-09-23 om 11 46 37" src="https://github.com/user-attachments/assets/e7e5497c-967f-4bd5-8a01-a1905849bc1b" />
 
 De feedback die ik heb gekregen voor mijn website is:
-+ Bronnen in code en Readme zetten
-+ De titel aanpassen om deze meer karakter te geven, meer vormgeven
-+ De clean look van de website meer betrekken bij losse vormen en het speelse
-+ Light & dark themas meer aandacht geven, de kleuren aanpassen etc.
-+ CSS Custom-properties toepassen
+
+- Bronnen in code en Readme zetten
+- De titel aanpassen om deze meer karakter te geven, meer vormgeven
+- De clean look van de website meer betrekken bij losse vormen en het speelse
+- Light & dark themas meer aandacht geven, de kleuren aanpassen etc.
+- CSS Custom-properties toepassen
 
 ---
 
 ### 17 sept - Digitaal tuintje website aanpassingen
+
 Deze dag heb ik verder gewerkt aan het bouwen van mijn website. Hiervoor heb ik mij het meeste gericht op de css ervan en het toevoegen van content. Een nieuwe pagina aangemaakt voor articles over verschillende soorten otters + een nieuwe pagina aangemaakt voor leuke weetjes die ook te vinden is in het navigatiemenu. Deze pagina's gebouwd min html met content zoals beeld en tekst, vervolgens css aan toegevoegd en gewerkt aan de lay-out.
 
 <img width="1440" height="759" alt="Scherm­afbeelding 2026-09-18 om 11 01 58" src="https://github.com/user-attachments/assets/cbe1b2fe-1e48-4ee6-84ad-9fe6c9abedf4" />
@@ -281,6 +289,7 @@ Deze dag heb ik verder gewerkt aan het bouwen van mijn website. Hiervoor heb ik 
 ---
 
 ### 16 sept - Digitaal tuintje website aanpassingen
+
 Deze dag heb ik besteed aan het werken van mijn website door aanpassingen te maken in vooral de css en lay-out van de html. Hierbij heb ik een font uitgekozen via Google Fonts en deze in de html en css toegevoegd. Hierbij een afbeelding op de Home pagina toegevoegd, header aangepast, articles gelinkt aan nieuwe pagina's en een nieuwe pagina aangemaakt als voorbeeld van de articles. Via de articles wil ik verschillende soorten otters introduceren waar de bezoekers van de site gemakkelijk naartoe kunnen navigeren en kunnen lezen.
 
 <img width="1440" height="171" alt="Scherm­afbeelding 2026-09-17 om 15 45 40" src="https://github.com/user-attachments/assets/65e1f28c-0d8b-4709-9424-8d508bb7e65f" />
@@ -290,6 +299,7 @@ Deze dag heb ik besteed aan het werken van mijn website door aanpassingen te mak
 ---
 
 ### 14 sept - Wat is het internet? & Digitaal tuintje website + Check-out
+
 Tijdens de les samen in een groepje/team over de hoofdvraag "Zijn overheden verantwoordelijk voor de betrouwbaarheid van het internet?" deelvragen bedacht. Voor gekregen deelvragen van een ander team samen onderzoeksmethodes besproken en uitgekozen voor hun bedachte deelvragen.
 
 <img width="4019" height="3014" alt="IMG_9441" src="https://github.com/user-attachments/assets/851c11ac-571e-43e0-8115-1f2baa677e6e" />
@@ -304,25 +314,29 @@ Hiernaast de navigatie van de site aangepast naar een menu balk bovenin. Deze he
 <img width="1440" height="158" alt="Scherm­afbeelding 2026-09-16 om 13 22 07" src="https://github.com/user-attachments/assets/f6c162f3-e2ef-4c0b-88e3-ca52d61df7ec" />
 
 **Check-out**
+
 1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
-  Wanneer er alleen html onderdelen in de code staan. Om dit te fixen hieraan css code toe te voegen zoals kleuren, grids, margins, fonts etc.
+   Wanneer er alleen html onderdelen in de code staan. Om dit te fixen hieraan css code toe te voegen zoals kleuren, grids, margins, fonts etc.
 
 2. Vertel welke volgende stap je neemt om je website responsive te maken.
-  Het toevoegen van buttons, meerder pagina’s, interacties voor de gebruiker van de website.
+   Het toevoegen van buttons, meerder pagina’s, interacties voor de gebruiker van de website.
 
 3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
-  De bouw van mijn eigen Garden is nog erg rustig maar wel speels. 
+   De bouw van mijn eigen Garden is nog erg rustig maar wel speels.
 
 ---
 
 ### 11 sept - Feedback, Deep Dive kleuren & gradients + Check-out
+
 Naar mijn vooruitgang gekeken samen met Vasilis. Deze ochtend gezien dat mijn learning log verdwenen was, dit maakte het moeilijk om samen naar mijn vooruitgang te kijken.
 Vervolgens de deep dive kleuren & gradients gedaan met oefeningen die in DLO staan. Deze deep dive ging goed door het kunnen kijken naar de presentatie die in DLO staat met uitleg en namen van de codes met de verschillende gradients die je kan maken in code.
 
 <img width="1440" height="845" alt="Deep Dive - kleuren en gradients" src="https://github.com/user-attachments/assets/732c68b5-e7a5-4578-909f-3ba09af90a8f" />
 
 **Check-out**
+
 1. Welke feedback heb je gehad?
+
 - Minder uitstellen de codeer opdrachten, Lees de tekst goed bij de deepdives.
 - De professionele competenties zijn nog niet terug te zien. Sommige dingen gaan nog niet helemaal lekker. Reserveer er tijd voor.
 - Probeer bij de deep dives aanwezig te zijn.
@@ -335,10 +349,10 @@ Vervolgens de deep dive kleuren & gradients gedaan met oefeningen die in DLO sta
 
 Met de gekregen feedback heb ik gemerkt dat ik mij wat meer moet verdiepen in de code sinds ik dat niet erg leuk vind om te doen en dit voor mij uit schuif. Hiervoor ga ik wat meer tijd vrij maken om hieraan te werken en de oefeningen beter te kunnen maken.
 
-
 ---
 
 ### 10 sept - Deep Dive light & dark theme + Scherm schetsen
+
 Via DLO de deep dive light & dark theme gevolgd met oefeningen. Hierbij heb ik in CodePen oefeningen gedaan met het schrijven van code hoe je de light & dark theme kan aanpassen naar eigen kleuren. Dit vond ik erg lastig om te volgen sinds het mij eerst niet wilde lukken en niet werkte. Na het doen van vergelijkingen in de code van de uitwerking heb ik kunnen achterhalen wat de codes horen te zijn en hoe deze vervolgens werken met wat testen.
 
 <img width="759" height="843" alt="Deep Dive - light   dark theme 01" src="https://github.com/user-attachments/assets/012887d5-8c33-4707-930f-58607b12fb83" />
@@ -366,7 +380,7 @@ Als aanvulling op mijn onderwerp zou ik wat meer uitzoeken en bezig houden met d
 Het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past is vooral vrolijkheid en rust. De inspiratie die je uit de afbeeldingen kan halen is een rustige stijl met blauwe tinten wat verbinding legt met het water waar zeeotters op hun rug in drijven. De stijl wordt daarom vooral met ronde vormen om een rustig beeld te geven met lichte, zachte kleuren.
 
 1. Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien?
-Met mijn onderwerp wil ik vertellen over leuke weetjes met daarbij behorende afbeeldingen die deze weetjes beeld kunnen geven. De afbeeldingen wil ik samen in verbinding brengen met de kleuren en achtergrond van de pagina zoals met vormen.
+   Met mijn onderwerp wil ik vertellen over leuke weetjes met daarbij behorende afbeeldingen die deze weetjes beeld kunnen geven. De afbeeldingen wil ik samen in verbinding brengen met de kleuren en achtergrond van de pagina zoals met vormen.
 
 2. Ik wil mijn Digital Garden laten gaan over leuke weetjes en informatie over otters.  en wil dat laten zien door verschillende afbeeldingen van bezigheden van otters en informatie aan content te tonen.  Ik begin met een stukje eigen content over mijn interesse naar otters.  Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door andere interesses van mij te delen en hier mij meer in over te gaan verdiepen.
 
@@ -379,14 +393,15 @@ Door de Visual Research heb ik een beter beeld gekregen met hoe ik mijn website 
 <img width="759" height="522" alt="Scherm­afbeelding 2026-09-18 om 10 51 57" src="https://github.com/user-attachments/assets/4f94e6fd-d241-4acd-a7c3-c82e6633258a" />
 
 **Check-out**
+
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt
-Het Visual Research werkt toe naar het vinden van eigenschappen en kenmerken die kunnen dienen als visuele uitgangspunten voor je Garden ontwerp. Met deze stappen denk je vanuit een sfeer of karakter en met vorm/beeld, kleur en typografie te ontwerpen.
+   Het Visual Research werkt toe naar het vinden van eigenschappen en kenmerken die kunnen dienen als visuele uitgangspunten voor je Garden ontwerp. Met deze stappen denk je vanuit een sfeer of karakter en met vorm/beeld, kleur en typografie te ontwerpen.
 
 2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
-Mijn Garden gaat over mijn interesses zoals een journal om bij te houden en zodat ik de tijd kan nemen om mij meer te gaan verdiepen in onderwerpen die ik interessant vind.
+   Mijn Garden gaat over mijn interesses zoals een journal om bij te houden en zodat ik de tijd kan nemen om mij meer te gaan verdiepen in onderwerpen die ik interessant vind.
 
 3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
-Het deel van de crazy 8 die ik het liefst wil gaan uitvoeren of verder zou willen onderzoeken is het idee om verschillende lijnen en vormen te kunnen creëren die in verbinding komt met de gehele pagina.
+   Het deel van de crazy 8 die ik het liefst wil gaan uitvoeren of verder zou willen onderzoeken is het idee om verschillende lijnen en vormen te kunnen creëren die in verbinding komt met de gehele pagina.
 
 ---
 
