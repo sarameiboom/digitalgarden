@@ -15,6 +15,14 @@ Deze code heb ik dus toegepast in mijn HTML en heeft ervoor gezorgd dat de songt
 
 <img width="1440" height="758" alt="Scherm­afbeelding 2026-10-22 om 16 17 15" src="https://github.com/user-attachments/assets/799626ec-562b-45ef-9a0f-8c9fa9c8817c" />
 
+--
+
+Iets anders wat mijn website nog ontbrak was het toevoegen van een scroll-driven animatie. Hiervoor wilde ik op de hoofdpagina de articles tevoorschijn laten komen doormiddel van te scrollen naar beneden. Deze articles wil ik dan een voor een te voorschijn laten komen. Om dit te doen heb ik onderzoek gedaan naar de verschillende soorten scroll-driven animaties waarbij ik de juiste code heb gevonden voor mijn ontwerp. Dit kan ik doen met "opacity". Deze code kan ik gebruiken met keyframes waarmee ik al eerder heb geoefend en weet hoe ik de animatie kan maken. Om deze animatie scroll-driven te maken, voeg ik de code "animation-timeline: view();" toe in de CSS van de articles.
+De hulp die ik hierbij heb gebruikt komt van de website https://www.joshwcomeau.com/animation/scroll-driven-animations/
+
+<img width="1440" height="753" alt="Scherm­afbeelding 2026-10-23 om 09 32 54" src="https://github.com/user-attachments/assets/64690c2b-9c44-4753-87af-4cdfccceb8f9" />
+<img width="1440" height="802" alt="Scherm­afbeelding 2026-10-23 om 09 38 06" src="https://github.com/user-attachments/assets/44e6491f-d972-4cf8-9fb8-64b8ac53fd65" />
+
 ---
 
 ### 21 okt - Bi-geekly, feedback van medestudenten & Animaties
