@@ -4,6 +4,21 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 23 okt - Retrospective & feedback
+
+Retrospective ingevuld over mijn progressie van alle sprints. Hierbij heb ik een piek en daal grafiek getekend en een nieuwe getekende metafoor over mijn proces. Tijdens de vorige sprint heb ik gemerkt dat het voor mij wat meer chaotisch verliep. Deze maandag was ik niet aanwezig door ziek geweest te zijn en hierbij deze lesdag gemist. Wel heb ik zoveel mogelijk kunnen doen door het doorlezen wat in dlo te vinden was en wat ik die dag gemist had. Hiernaast ben ik daarmee verder gaan werken aan de website en typografie opdracht om deze af te ronden. 
+
+Tijdens de retrospective heb ik samen met Barbara en de student assistent gekeken naar mijn website, typografie opdracht en de code hiervan. De feedback die ik hieruit heb gekregen is:
+- de typografie opdracht verbeteren met de alinea's van de songtekst onder elkaar inplaats van naast elkaar, hierbij de tekst wat groter maken zodat hier doorheen gescrollt kan worden.
+- de typografie songtekst opdracht te verbeteren met een scroll-driven animatie netgoals ik gedaan heb in mijn digital garden website.
+- kleur toevoegen aan de typografie opdracht zoals achtergrond en/of tekst.
+- om voor de accesibility een mp3 code toevoegen met het nummer zodat gebruikers die een visuele beperking hebben alsnog de website kunnen gebruiken.
+
+<img width="4031" height="3023" alt="IMG_0622" src="https://github.com/user-attachments/assets/740aff1b-29c4-4a49-ace1-73442ffec4bd" />
+<img width="5711" height="4283" alt="IMG_0621" src="https://github.com/user-attachments/assets/1c0dd69c-05c2-4bc6-a505-88d533ee375d" />
+
+---
+
 ### 22 okt - Werken aan de website & deep dives
 
 Deze dag heb ik besteed aan het verbeteren van mijn website om klaar te maken voor de aankomende retrospective/feedback deze vrijdag.
