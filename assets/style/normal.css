@@ -98,9 +98,21 @@ main {
   margin: 3em 6em;
 }
 
+@keyframes --article-animation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 article {
   background-color: var(--color-blue);
   border-radius: 20px;
+
+  animation-name: --article-animation;
+  animation-timeline: view();
 }
 
 article a {
