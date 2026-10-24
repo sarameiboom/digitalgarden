@@ -4,14 +4,27 @@
   src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
 }
 /* MARK: items */
+
+html {
+  color-scheme: light dark;
+
+  --color-dark: #940000;
+  --color-light: #d8e2ff;
+
+  --color-background: light-dark(var(--color-light), var(--color-dark));
+  --color-text: light-dark(var(--color-dark), var(--color-light));
+}
+
 body {
   font-family: "Seraphs";
   display: grid;
   grid-template-columns: auto 1fr;
+  background-color: var(--color-background);
+  color: var(--color-text);
 }
 
 header {
-  font-size: 50px;
+  font-size: 100px;
   font-weight: 600;
   padding: 10px;
   position: sticky;
@@ -20,47 +33,56 @@ header {
 }
 
 main {
-  font-size: 16px;
   font-weight: 150;
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: auto 1fr;
-  gap: 3em;
+  gap: 40px;
   padding-left: 60px;
   padding-right: 50px;
-  line-height: 25px;
+}
+
+@keyframes --fade-animation {
+  0% {
+    opacity: 0;
+  }
+  90% {
+    opacity: 1;
+  }
 }
 
 p {
+  font-size: 50px;
+
+  animation-name: --fade-animation;
+  animation-timeline: view();
 }
 
 h1 {
-  font-size: 16px;
   font-weight: 150;
 }
 
 h2 {
-  font-size: 16px;
   font-weight: 150;
 }
 
 h3 {
-  font-size: 16px;
   font-weight: 150;
 }
 
 h4 {
-  font-size: 16px;
   font-weight: 150;
 }
 
+h5 {
+  padding: 2em;
+}
+
 #all {
-  font-size: 20px;
-  letter-spacing: 5px;
+  font-size: 80px;
+  letter-spacing: 10px;
 }
 
 #noise {
-  font-size: 25px;
+  font-size: 80px;
   font-weight: 170;
   font-style: italic;
   font-variation-settings: "SRFS" 50;
@@ -76,31 +98,33 @@ h4 {
 }
 
 #loud {
-  font-size: 35px;
+  font-size: 120px;
   font-weight: 600;
 
   display: inline-block;
   animation-name: --loud-animation;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
 }
 
 #happen {
   display: inline-block;
   font-style: italic;
-  font-size: 19px;
+  font-size: 70px;
   font-variation-settings:
-    "wght" 160,
+    "wght" 100,
     "SRFS" 30;
 }
 
 #haakjes {
-  font-size: 13px;
+  font-size: 25px;
+  font-style: italic;
 }
 
 #running {
   font-style: italic;
   letter-spacing: 3px;
+  font-weight: 100;
 }
 
 @keyframes --shadow-animation {
@@ -114,8 +138,8 @@ h4 {
 
 #shadow {
   font-style: italic;
-  font-size: 30px;
-  letter-spacing: -2.9px;
+  font-size: 80px;
+  letter-spacing: -10px;
   font-weight: 250;
 
   display: inline-block;
@@ -129,19 +153,25 @@ h4 {
     transform: translateY(0);
   }
   100% {
-    transform: translateY(8px);
+    transform: translateY(30px);
   }
 }
 
 #down {
   display: inline-block;
   animation-name: --down-animation;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-iteration-count: infinite;
 }
 
 #shoulders {
-  font-size: 27px;
+  font-size: 98px;
   letter-spacing: 3.5px;
   font-weight: 300;
+}
+
+#when {
+  font-size: 60px;
+  font-style: italic;
+  font-weight: 100;
 }
