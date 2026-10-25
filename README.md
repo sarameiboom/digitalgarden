@@ -4,6 +4,20 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 24 okt - Feedback verwerken
+
+Na het gekregen feedback van vrijdag ben ik bezig geweest met de feedback punten te verwerken in mijn website. Hierbij heb ik geleerd hoe ik een mp3 in mijn code kan verwerken. De overige feedback punten heb ik kunnen verwerken in mijn website door al gedane deep dives. Om een mp3 bestand in mijn code te kunnen zetten met een speler heb ik de code <audio controls> gebruikt, waardoor er een al opgemaakte speler op de website komt te staan. Het nummer van Tame Impala heb ik via YouTube omgezet naar een mp3 bestand en deze gedownload. Dit bestand heb ik vervolgens in de folder van de website gezet en bij de code naar deze kunnen linken. Nu kunnen gebruikers met een visuele beperking toch nog naar het nummer luisteren.
+
+Overige aanpassingen die ik heb gedaan is het aanpassen van de kleuren van de songtekst pagina zoals de achtergrond en tekst kleur. Dit is opgemaakt met gebruik van custom properties en werkt ook samen met een light en dark mode. Verder is de tekst groter gemaakt zodat er een scroll-driven animatie toegevoegd kon worden en zijn er een aantal animaties aangepast naar deze grootte en verbeteringen.
+
+<img width="1439" height="755" alt="Scherm­afbeelding 2026-10-24 om 21 07 40" src="https://github.com/user-attachments/assets/bbdcbed6-f2e0-4dfd-9d7b-44e918fb46ca" />
+<img width="1438" height="751" alt="Scherm­afbeelding 2026-10-24 om 21 07 51" src="https://github.com/user-attachments/assets/96bbc1ec-3c88-4179-a97b-f95f4f3dfde2" />
+<img width="1440" height="757" alt="Scherm­afbeelding 2026-10-24 om 21 08 00" src="https://github.com/user-attachments/assets/421c2b16-cd91-489f-bde2-ff4e57443ad7" />
+<img width="1440" height="756" alt="Scherm­afbeelding 2026-10-24 om 21 08 08" src="https://github.com/user-attachments/assets/50304c1a-98ad-4611-8120-09e920314d94" />
+<img width="1440" height="754" alt="Scherm­afbeelding 2026-10-24 om 21 40 51" src="https://github.com/user-attachments/assets/71656f5f-eec9-4025-bce4-0f78570e3fdd" />
+
+---
+
 ### 23 okt - Retrospective & feedback
 
 Retrospective ingevuld over mijn progressie van alle sprints. Hierbij heb ik een piek en daal grafiek getekend en een nieuwe getekende metafoor over mijn proces. Tijdens de vorige sprint heb ik gemerkt dat het voor mij wat meer chaotisch verliep. Deze maandag was ik niet aanwezig door ziek geweest te zijn en hierbij deze lesdag gemist. Wel heb ik zoveel mogelijk kunnen doen door het doorlezen wat in dlo te vinden was en wat ik die dag gemist had. Hiernaast ben ik daarmee verder gaan werken aan de website en typografie opdracht om deze af te ronden. 
