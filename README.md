@@ -4,6 +4,38 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 26 okt - Werkgroep expo & feedback
+
+Door de expo heb ik meer feedback gekregen van medestudenten die hebben aangegeven wat zij goed vinden aan mijn website aan de wet, ontwerp vaardigheden en technische vaardigheden. Uit deze expo heb ik de meest belangrijke punten opgeschreven waar ik nog iets mee zou kunnen of wat er juist al goed is aan mijn website vanuit mijn medestudenten:
+- Duidelijke de cookies aangegeven en goed dat er aangegeven wordt welke er vereist zijn
+- Voice over werkt perfect
+- Leuk ontwerp, kleuren contrasten zijn goed en lay-out is heel fijn bij het lezen
+- Kleuren en vormen sluiten heel goed aan bij het onderwerp
+- De vormgeving zorgt voor een mooie en rustige uitstraling
+- Codes zien er netjes en overzichtelijk uit
+- Afbeeldingen hebben visueel passende lay-outs
+- Animaties in de songtekst werken goed en zijn leuk
+- Misschien een beetje simpel/leeg, kan de achtergrond aanpassen of animaties toevoegen bijvoorbeeld een otter die zwemt
+
+Met deze gekregen feedback merk ik dat er veel staat wat er goed is en leuk is aan mijn website, wel heb ik een ander feedback puntje gekregen om nog wat toe te kunnen voegen aan mijn website. Hier wil ik graag nog naar kijken en anders had ik dit nog graag willen aanpassen als ik meer tijd heb gehad.
+
+<img width="5711" height="4283" alt="IMG_0647" src="https://github.com/user-attachments/assets/679a8ad1-0950-49b0-9704-f0a65f0a75ff" />
+<img width="4284" height="5712" alt="IMG_0648" src="https://github.com/user-attachments/assets/2b8d48f6-74b6-4d52-bca4-ac11711860e9" />
+
+--
+
+Na de expo heb ik 1 op 1 feedback gekregen met een medestudent Casper, waarbij we hebben gekeken naar verschillende aspecten uit mijn website waar deze aan zou moeten voldoen. Hieruit is gekomen dat ik nog een paar dingen kan aanpassen/toevoegen zoals:
+- De article teksten klikbaar maken zoals de titels
+- De article titels focus state duidelijker maken
+- Cookie button duidelijker maken op de website voor vindbaarheid + een hover state geven
+
+Hiernaast heb ik samen met 3 andere medestudenten gekeken naar mijn readme log waarbij ik vergeleken met de de anderen veel heb gedocumenteerd zoals beeldmateriaal, opdrachten, schetsen en vooral bijschriften wat ik heb gedaan en geleerd etc. Het enige wat hieruit kwam is dat ik de eerste retrospective nog mis in mijn readme die ik er vergeten ben in te zetten. Voor de rest heb ik deze sprint veel meer gedocumenteerd en opgeschreven wat ik heb geleerd dan de vorige sprints waaruit ik heb geleerd vanuit gekregen feedback.
+
+<img width="5711" height="4283" alt="IMG_0649" src="https://github.com/user-attachments/assets/c908fb19-7991-4955-b1b6-ce64ab6254c1" />
+<img width="5711" height="4283" alt="IMG_0650" src="https://github.com/user-attachments/assets/a322d9f3-a528-4c4d-a147-643979eae044" />
+
+---
+
 ### 24 okt - Feedback verwerken
 
 Na het gekregen feedback van vrijdag ben ik bezig geweest met de feedback punten te verwerken in mijn website. Hierbij heb ik geleerd hoe ik een mp3 in mijn code kan verwerken. De overige feedback punten heb ik kunnen verwerken in mijn website door al gedane deep dives. Om een mp3 bestand in mijn code te kunnen zetten met een speler heb ik de code <audio controls> gebruikt, waardoor er een al opgemaakte speler op de website komt te staan. Het nummer van Tame Impala heb ik via YouTube omgezet naar een mp3 bestand en deze gedownload. Dit bestand heb ik vervolgens in de folder van de website gezet en bij de code naar deze kunnen linken. Nu kunnen gebruikers met een visuele beperking toch nog naar het nummer luisteren.
