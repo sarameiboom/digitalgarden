@@ -4,6 +4,24 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 27 okt - Laatste website aanpassingen
+
+Voor het afmaken van mijn website heb ik nog een aantal aanpassingen gemaakt door de feedback die ik heb gekregen. Dit zijn aanpassingen zoals:
+- **Het klikbaar maken van de stukjes tekst van de articles op de hoofdpagina van verschillende otter soorten**
+- **De cookie button duidelijker/beter zichtbaar maken**
+Hiervoor heb ik de cookie button op een fixed position gezet links-onderin in beeldscherm zodat deze altijd goed te vinden is en meteen zichtbaar.
+- **De cookie button een hover state gegeven**
+Hiervoor heb ik de opacity aangepast van de button wanneer in hover state
+- **Overlappende tekst van de aparte otter soorten pagina's aangepast zodat deze de afbeelding niet meer overlappen voor de leesbaarheid.**
+
+  Overige aanpassingen die ik heb gedaan zijn
+  - Het aanpassen van de menu-bar die nu altijd in het midden van het scherm staat
+  - Een afbeelding toegevoegd aan de leuke weetjes pagina
+ 
+Door het maken van deze aanpassingen is mijn website klaar om ingeleverd te worden en heb ik van de feedback geleerd wat voor aanpassingen mijn website hebben kunnen verbeteren.
+
+---
+
 ### 26 okt - Werkgroep expo & feedback
 
 Door de expo heb ik meer feedback gekregen van medestudenten die hebben aangegeven wat zij goed vinden aan mijn website aan de wet, ontwerp vaardigheden en technische vaardigheden. Uit deze expo heb ik de meest belangrijke punten opgeschreven waar ik nog iets mee zou kunnen of wat er juist al goed is aan mijn website vanuit mijn medestudenten:
