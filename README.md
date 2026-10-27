@@ -8,11 +8,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 Voor het afmaken van mijn website heb ik nog een aantal aanpassingen gemaakt door de feedback die ik heb gekregen. Dit zijn aanpassingen zoals:
 - **Het klikbaar maken van de stukjes tekst van de articles op de hoofdpagina van verschillende otter soorten**
-**- De cookie button duidelijker/beter zichtbaar maken**
+- **De cookie button duidelijker/beter zichtbaar maken**
 Hiervoor heb ik de cookie button op een fixed position gezet links-onderin in beeldscherm zodat deze altijd goed te vinden is en meteen zichtbaar.
-**- De cookie button een hover state gegeven**
+- **De cookie button een hover state gegeven**
 Hiervoor heb ik de opacity aangepast van de button wanneer in hover state
-**- Overlappende tekst van de aparte otter soorten pagina's aangepast zodat deze de afbeelding niet meer overlappen voor de leesbaarheid.**
+- **Overlappende tekst van de aparte otter soorten pagina's aangepast zodat deze de afbeelding niet meer overlappen voor de leesbaarheid.**
 
   Overige aanpassingen die ik heb gedaan zijn
   - Het aanpassen van de menu-bar die nu altijd in het midden van het scherm staat
